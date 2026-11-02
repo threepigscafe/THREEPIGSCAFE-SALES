@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T10:53:27.593Z",
+  "updatedAt": "2026-11-02T10:53:57.920Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
@@ -34,8 +34,89 @@
   "promotions": [],
   "socialMetrics": [],
   "contentCalendar": [],
-  "baristas": [],
-  "shifts": [],
+  "baristas": [
+    {
+      "id": "b-1793616835086",
+      "name": "Canika",
+      "nickname": "Mint",
+      "phone": "0642402583",
+      "avatarSeed": "mint",
+      "role": "Barista & Cashier",
+      "primaryDuties": [
+        "ชงกาแฟ",
+        "ขาย & แคชเชียร์",
+        "ทำความสะอาด",
+        "สรุปยอดรายวัน"
+      ],
+      "weeklyHours": 48,
+      "colorTag": "#E27D60"
+    }
+  ],
+  "shifts": [
+    {
+      "id": "sh-b-1793616835086-0-1793616835086",
+      "date": "2026-11-02",
+      "dayName": "จันทร์",
+      "baristaId": "b-1793616835086",
+      "shiftType": "morning",
+      "shiftHours": "07:00 - 15:00 น.",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1793616835086-1-1793616835086",
+      "date": "2026-11-02",
+      "dayName": "อังคาร",
+      "baristaId": "b-1793616835086",
+      "shiftType": "morning",
+      "shiftHours": "07:00 - 15:00 น.",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1793616835086-2-1793616835086",
+      "date": "2026-11-02",
+      "dayName": "พุธ",
+      "baristaId": "b-1793616835086",
+      "shiftType": "morning",
+      "shiftHours": "07:00 - 15:00 น.",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1793616835086-3-1793616835086",
+      "date": "2026-11-02",
+      "dayName": "พฤหัสบดี",
+      "baristaId": "b-1793616835086",
+      "shiftType": "morning",
+      "shiftHours": "07:00 - 15:00 น.",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1793616835086-4-1793616835086",
+      "date": "2026-11-02",
+      "dayName": "ศุกร์",
+      "baristaId": "b-1793616835086",
+      "shiftType": "morning",
+      "shiftHours": "07:00 - 15:00 น.",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1793616835086-5-1793616835086",
+      "date": "2026-11-02",
+      "dayName": "เสาร์",
+      "baristaId": "b-1793616835086",
+      "shiftType": "morning",
+      "shiftHours": "07:00 - 15:00 น.",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1793616835086-6-1793616835086",
+      "date": "2026-11-02",
+      "dayName": "อาทิตย์",
+      "baristaId": "b-1793616835086",
+      "shiftType": "off",
+      "shiftHours": "วันหยุดประจำสัปดาห์",
+      "leadDuty": "ชงกาแฟ"
+    }
+  ],
   "dutyChecklist": [],
   "systemUsers": [
     {
