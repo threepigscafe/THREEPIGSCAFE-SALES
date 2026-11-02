@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T18:46:43.310Z",
+  "updatedAt": "2026-11-02T18:47:08.092Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
@@ -15,7 +15,7 @@
       "nameEn": "อเมริกาโฯ่",
       "category": "กาแฟ",
       "price": 55,
-      "cost": 25,
+      "cost": 30,
       "defaultRoast": "คั่วกลาง (Nutty Chocolate)",
       "isPopular": false
     }
