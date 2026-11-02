@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T18:55:46.649Z",
+  "updatedAt": "2026-11-02T18:56:53.517Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
@@ -20,6 +20,14 @@
       "colorTag": "#E27D60",
       "icon": "walkin",
       "createdAt": "2026-11-02T18:55:43.771Z"
+    },
+    {
+      "id": "src-1793645810615",
+      "name": "ทักทาย-ใบปลิว",
+      "description": "Three Pigs Cafe - ทักทายลูกค้าหน้าร้าน-แจกใบปลิว",
+      "colorTag": "#E27D60",
+      "icon": "walkin",
+      "createdAt": "2026-11-02T18:56:50.615Z"
     }
   ],
   "customerStories": [],
