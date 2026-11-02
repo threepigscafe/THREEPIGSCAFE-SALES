@@ -1,4 +1,7 @@
 {
+  "updatedAt": "2026-11-02T10:01:54.265Z",
+  "version": "1.0",
+  "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
   "customerTransactions": [],
   "customerSources": [],
@@ -35,7 +38,5 @@
   "shifts": [],
   "dutyChecklist": [],
   "systemUsers": [],
-  "updatedAt": "2026-11-02T09:55:07.345Z",
-  "cafe": "Three Pigs Cafe - พนัสนิคม",
   "source": "GitHub Cloud Realtime Engine"
 }
