@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T11:26:27.318Z",
+  "updatedAt": "2026-11-02T11:28:50.495Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
@@ -9,7 +9,14 @@
   "customerReviews": [],
   "customerFeedbacks": [],
   "menuItems": [],
-  "categories": [],
+  "categories": [
+    {
+      "id": "cat-1793618927677",
+      "name": "กาแฟ",
+      "nameTh": "กาแฟ",
+      "description": ""
+    }
+  ],
   "salesTarget": {
     "dailyRevenue": 4500,
     "dailyCups": 50,
