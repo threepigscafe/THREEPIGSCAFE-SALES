@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T18:55:05.283Z",
+  "updatedAt": "2026-11-02T18:55:46.649Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
@@ -12,6 +12,14 @@
       "colorTag": "#E27D60",
       "icon": "referral",
       "createdAt": "2026-11-02T18:55:02.394Z"
+    },
+    {
+      "id": "src-1793645743771",
+      "name": "วอร์คอินหน้าร้าน",
+      "description": "วอร์คอินหน้าร้านเห็นร้าน",
+      "colorTag": "#E27D60",
+      "icon": "walkin",
+      "createdAt": "2026-11-02T18:55:43.771Z"
     }
   ],
   "customerStories": [],
