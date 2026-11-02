@@ -1,14 +1,41 @@
 {
-  "updatedAt": "2026-11-02T09:48:46.703Z",
-  "version": "1.0",
-  "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
-  "transactions": [],
-  "sources": [],
-  "stories": [],
-  "feedbacks": [],
-  "settings": {
-    "autoSync": true,
-    "syncIntervalSeconds": 20
-  }
+  "customerTransactions": [],
+  "customerSources": [],
+  "customerStories": [],
+  "customerReviews": [],
+  "customerFeedbacks": [],
+  "menuItems": [],
+  "categories": [],
+  "salesTarget": {
+    "dailyRevenue": 4500,
+    "dailyCups": 50,
+    "monthlyRevenue": 135000,
+    "channelDistribution": {
+      "dinein": 45,
+      "online": 35,
+      "grab": 20
+    }
+  },
+  "dailyRecords": [],
+  "monthlySales": [],
+  "tierSettings": {
+    "silverMinSpend": 1000,
+    "silverMinVisits": 3,
+    "goldMinSpend": 3000,
+    "goldMinVisits": 8,
+    "vipMinSpend": 7000,
+    "vipMinVisits": 15
+  },
+  "leads": [],
+  "promotions": [],
+  "socialMetrics": [],
+  "contentCalendar": [],
+  "baristas": [],
+  "shifts": [],
+  "dutyChecklist": [],
+  "systemUsers": [],
+  "updatedAt": "2026-11-02T09:55:07.345Z",
+  "cafe": "Three Pigs Cafe - พนัสนิคม",
+  "source": "GitHub Cloud Realtime Engine"
 }
