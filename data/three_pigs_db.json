@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T10:14:30.924Z",
+  "updatedAt": "2026-11-02T10:17:34.562Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
@@ -37,6 +37,33 @@
   "baristas": [],
   "shifts": [],
   "dutyChecklist": [],
-  "systemUsers": [],
+  "systemUsers": [
+    {
+      "id": "u-admin-1",
+      "username": "KANCHAI.KCPB",
+      "password": "Kanchai.kcpb.96/8",
+      "name": "คุณกานชัย (เจ้าของร้าน)",
+      "nickname": "คุณกานชัย",
+      "position": "เจ้าของร้าน / ผู้จัดการทั่วไป",
+      "phone": "081-889-7722",
+      "email": "three.pigs.cafe@gmail.com",
+      "profileImage": "",
+      "isBarista": false,
+      "isActive": true,
+      "createdAt": "2026-01-15",
+      "lastLoginAt": "2026-11-02 10:00 น.",
+      "notes": "เจ้าของร้าน Three Pigs Cafe พนัสนิคม ผู้ดูแลระบบสูงสุด มีสิทธิ์ทุกฟังก์ชัน 100%",
+      "permissions": {
+        "overview": "full_access",
+        "channels": "full_access",
+        "marketing": "full_access",
+        "leads": "full_access",
+        "crm": "full_access",
+        "reviews": "full_access",
+        "barista": "full_access",
+        "system_control": "full_access"
+      }
+    }
+  ],
   "source": "GitHub Cloud Realtime Engine"
 }
