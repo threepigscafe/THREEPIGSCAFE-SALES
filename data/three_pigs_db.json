@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T18:47:08.092Z",
+  "updatedAt": "2026-11-02T18:47:58.251Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
@@ -9,6 +9,16 @@
   "customerReviews": [],
   "customerFeedbacks": [],
   "menuItems": [
+    {
+      "id": "m-1793645275362",
+      "nameTh": "เอสเพสโซ่",
+      "nameEn": "Espresso",
+      "category": "กาแฟ",
+      "price": 55,
+      "cost": 30,
+      "defaultRoast": "คั่วกลาง (Nutty Chocolate)",
+      "isPopular": false
+    },
     {
       "id": "m-1793618989445",
       "nameTh": "อเมริกาโฯ่",
