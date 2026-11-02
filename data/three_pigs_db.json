@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T11:28:50.495Z",
+  "updatedAt": "2026-11-02T11:28:57.144Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
@@ -14,6 +14,12 @@
       "id": "cat-1793618927677",
       "name": "กาแฟ",
       "nameTh": "กาแฟ",
+      "description": ""
+    },
+    {
+      "id": "cat-1793618934311",
+      "name": "มัทฉะ",
+      "nameTh": "มัทฉะ",
       "description": ""
     }
   ],
