@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T11:29:26.571Z",
+  "updatedAt": "2026-11-02T11:29:52.304Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
@@ -8,7 +8,18 @@
   "customerStories": [],
   "customerReviews": [],
   "customerFeedbacks": [],
-  "menuItems": [],
+  "menuItems": [
+    {
+      "id": "m-1793618989445",
+      "nameTh": "อเมริกาโฯ่",
+      "nameEn": "อเมริกาโฯ่",
+      "category": "กาแฟ",
+      "price": 55,
+      "cost": 25,
+      "defaultRoast": "คั่วกลาง (Nutty Chocolate)",
+      "isPopular": false
+    }
+  ],
   "categories": [
     {
       "id": "cat-1793618927677",
