@@ -1,10 +1,19 @@
 {
-  "updatedAt": "2026-11-02T18:53:56.885Z",
+  "updatedAt": "2026-11-02T18:55:05.283Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
   "customerTransactions": [],
-  "customerSources": [],
+  "customerSources": [
+    {
+      "id": "src-1793645702394",
+      "name": "โรงเรียนวิทยาศาสตร์จุฬาภรณ์ชลบุรี",
+      "description": "",
+      "colorTag": "#E27D60",
+      "icon": "referral",
+      "createdAt": "2026-11-02T18:55:02.394Z"
+    }
+  ],
   "customerStories": [],
   "customerReviews": [],
   "customerFeedbacks": [],
