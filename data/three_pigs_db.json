@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T11:29:19.077Z",
+  "updatedAt": "2026-11-02T11:29:26.571Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
@@ -32,6 +32,12 @@
       "id": "cat-1793618956212",
       "name": "โซดา",
       "nameTh": "โซดา",
+      "description": ""
+    },
+    {
+      "id": "cat-1793618963715",
+      "name": "น้ำทั่วไป",
+      "nameTh": "น้ำทั่วไป",
       "description": ""
     }
   ],
