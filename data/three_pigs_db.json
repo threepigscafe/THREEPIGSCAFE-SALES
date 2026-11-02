@@ -1,0 +1,14 @@
+{
+  "updatedAt": "2026-11-02T09:48:46.703Z",
+  "version": "1.0",
+  "cafe": "Three Pigs Cafe - พนัสนิคม",
+  "members": [],
+  "transactions": [],
+  "sources": [],
+  "stories": [],
+  "feedbacks": [],
+  "settings": {
+    "autoSync": true,
+    "syncIntervalSeconds": 20
+  }
+}
