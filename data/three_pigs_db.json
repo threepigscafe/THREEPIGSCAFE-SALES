@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T10:49:02.438Z",
+  "updatedAt": "2026-11-02T10:53:27.593Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
@@ -42,8 +42,8 @@
       "id": "u-admin-1",
       "username": "KANCHAI.KCPB",
       "password": "Kanchai.kcpb.96/8",
-      "name": "KANCHAI KCPB",
-      "nickname": "KCPB",
+      "name": "คุณกานชัย (เจ้าของร้าน)",
+      "nickname": "คุณกานชัย",
       "position": "กองหน้าผู้ทำปรตู",
       "phone": "064-436-4181",
       "email": "three.pigs.cafe@gmail.com",
