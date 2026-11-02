@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T18:56:53.517Z",
+  "updatedAt": "2026-11-02T18:57:35.948Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "members": [],
@@ -28,6 +28,14 @@
       "colorTag": "#E27D60",
       "icon": "walkin",
       "createdAt": "2026-11-02T18:56:50.615Z"
+    },
+    {
+      "id": "src-1793645853060",
+      "name": "กลุ่มเฟสบุ๊คพนัสนิคม",
+      "description": "กลุ่มเฟสบุ๊คพนัสนิคม จากการทำ Marketing",
+      "colorTag": "#E27D60",
+      "icon": "facebook",
+      "createdAt": "2026-11-02T18:57:33.060Z"
     }
   ],
   "customerStories": [],
