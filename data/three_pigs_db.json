@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T07:54:52.591Z",
+  "updatedAt": "2026-11-04T07:54:59.354Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": null,
@@ -213,6 +213,7 @@
       "nickname": "Mint",
       "position": "บาริสต้า & แคชเชียร์",
       "phone": "0642402583",
+      "profileImage": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"80\" height=\"80\" viewBox=\"0 0 80 80\"><rect width=\"80\" height=\"80\" rx=\"20\" fill=\"%23FEF3C7\"/><text x=\"50%\" y=\"58%\" dominant-baseline=\"middle\" text-anchor=\"middle\" font-size=\"40\">☕</text></svg>",
       "isBarista": true,
       "linkedBaristaId": "b-1793616835086",
       "isActive": true,
