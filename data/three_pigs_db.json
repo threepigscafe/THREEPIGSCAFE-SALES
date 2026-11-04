@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T15:04:20.911Z",
+  "updatedAt": "2026-11-04T15:04:31.196Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": null,
@@ -121,26 +121,6 @@
   "socialMetrics": [],
   "contentCalendar": [
     {
-      "id": "cnt-1793804657926-1",
-      "dayOfWeek": "จันทร์",
-      "dayIndex": 0,
-      "platform": "facebook",
-      "format": "Single Photo",
-      "productionGoal": "sales",
-      "contentPillar": "สินค้า & กาแฟสเปเชียลตี้",
-      "publishTime": "08:00 น.",
-      "title": "☕ Monday Booster: อเมริกาโน่ House Blend ปลุกพลังสัปดาห์ใหม่",
-      "captionDraft": "เริ่มต้นเช้าวันจันทร์อย่างสดชื่นกับ Americano เมล็ด House Blend คั่วกลาง โทนนัทตี้ช็อกโกแลต กลมกล่อม ไม่ขมบาดคอ ☀️ สั่งล่วงหน้าผ่าน Line OA หรือ Grab ได้เลยน้า",
-      "hashtags": [
-        "ThreePigsCafe",
-        "คาเฟ่พนัสนิคม",
-        "MondayBooster",
-        "กาแฟพนัสนิคม"
-      ],
-      "assignedBarista": "น้องมิ้นท์",
-      "status": "published"
-    },
-    {
       "id": "cnt-1793804657926-2",
       "dayOfWeek": "อังคาร",
       "dayIndex": 1,
@@ -202,26 +182,6 @@
       "status": "draft"
     },
     {
-      "id": "cnt-1793804657926-5",
-      "dayOfWeek": "ศุกร์",
-      "dayIndex": 4,
-      "platform": "facebook",
-      "format": "Single Photo",
-      "productionGoal": "sales",
-      "contentPillar": "โปรโมชัน & สิทธิพิเศษ",
-      "publishTime": "10:30 น.",
-      "title": "🛵 TGIF Office Break: ชวนแก๊งที่ทำงานพนัสนิคมสั่ง Grab ครบ 250฿ ลด 20%",
-      "captionDraft": "วันศุกร์แล้ววว รวมตี้ที่ออฟฟิศ/โรงพยาบาลพนัส กดสั่ง GrabFood ส่งตรงถึงที่ แยกน้ำแข็งอย่างดี พร้อมเครื่องดื่มชาไทย กาแฟ และมัทฉะพรีเมียม สดชื่นถึงเย็นแน่นอน 💨",
-      "hashtags": [
-        "GrabFoodพนัสนิคม",
-        "TGIF",
-        "ThreePigsCafe",
-        "กาแฟสดส่งถึงที่"
-      ],
-      "assignedBarista": "น้องมิ้นท์",
-      "status": "draft"
-    },
-    {
       "id": "cnt-1793804657926-6",
       "dayOfWeek": "เสาร์",
       "dayIndex": 5,
@@ -239,27 +199,6 @@
         "รีวิวชลบุรี"
       ],
       "assignedBarista": "น้องเจมส์",
-      "status": "draft"
-    },
-    {
-      "id": "cnt-1793804657926-7",
-      "dayOfWeek": "อาทิตย์",
-      "dayIndex": 6,
-      "platform": "tiktok",
-      "format": "TikTok / Reels",
-      "productionGoal": "sales",
-      "contentPillar": "สินค้า & กาแฟสเปเชียลตี้",
-      "publishTime": "13:00 น.",
-      "title": "☕ Sunday Specialty Slow Bar: ดริปเมล็ด Single Origin พิเศษประจำสัปดาห์",
-      "captionDraft": "จิบคู่ความสงบในวันอาทิตย์กับ Slow Bar ดริปเมล็ดพิเศษ หอมฟลอรัลและผลไม้สดชื่น บาริสต้าพร้อมเล่าเรื่องราวเมล็ดกาแฟให้ฟังที่เคาน์เตอร์บาร์ค่า 🌸",
-      "hashtags": [
-        "SlowBar",
-        "DripCoffee",
-        "SpecialtyCoffee",
-        "ThreePigsCafe",
-        "พนัสนิคม"
-      ],
-      "assignedBarista": "น้องมิ้นท์",
       "status": "draft"
     }
   ],
