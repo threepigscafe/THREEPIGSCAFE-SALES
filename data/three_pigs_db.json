@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T15:04:34.376Z",
+  "updatedAt": "2026-11-04T15:04:49.806Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": null,
@@ -120,47 +120,6 @@
   "promotions": [],
   "socialMetrics": [],
   "contentCalendar": [
-    {
-      "id": "cnt-1793804657926-2",
-      "dayOfWeek": "อังคาร",
-      "dayIndex": 1,
-      "platform": "tiktok",
-      "format": "TikTok / Reels",
-      "productionGoal": "marketing",
-      "contentPillar": "เบื้องหลังบาริสต้า",
-      "publishTime": "12:00 น.",
-      "title": "🎬 Behind the Scenes: ศิลปะการเท Dirty Coffee ช็อตสกัดสด",
-      "captionDraft": "ดูความสวยงามของการสกัดช็อตเอสเพรสโซ่ร้อนๆ ไหลลงสู่นมเย็นจัดสูตรลับ 🌿 ความฟินที่ดื่มทีละอึกแล้วได้ทั้งความเข้มข้นและความละมุนพร้อมกัน ✨",
-      "hashtags": [
-        "ThreePigsCafe",
-        "DirtyCoffee",
-        "BaristaLife",
-        "คาเฟ่ชลบุรี",
-        "TikTokพากิน"
-      ],
-      "assignedBarista": "น้องเจมส์",
-      "status": "ready"
-    },
-    {
-      "id": "cnt-1793804657926-4",
-      "dayOfWeek": "พฤหัสบดี",
-      "dayIndex": 3,
-      "platform": "instagram",
-      "format": "Photo Carousel",
-      "productionGoal": "marketing",
-      "contentPillar": "รีวิวจากลูกค้า",
-      "publishTime": "15:30 น.",
-      "title": "💖 Customer Story & Member Perks: สิทธิพิเศษสมาชิกสะสมแต้ม 10 ฟรี 1",
-      "captionDraft": "ขอบคุณรีวิวและรอยยิ้มจากคุณลูกค้าประจำนะคะ 🌸 ใครยังไม่ได้สะสมแต้ม แวะมาสมัครสมาชิกฟรีที่ร้าน หรือแอด Line OA สะสมครบ 10 แก้วรับเครื่องดื่มฟรี 1 แก้วได้เลยค่า!",
-      "hashtags": [
-        "ThreePigsCafe",
-        "รีวิวคาเฟ่",
-        "สมาชิกThreePigs",
-        "พนัสนิคม"
-      ],
-      "assignedBarista": "น้องต้น",
-      "status": "draft"
-    },
     {
       "id": "cnt-1793804657926-6",
       "dayOfWeek": "เสาร์",
