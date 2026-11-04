@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T17:21:30.127Z",
+  "updatedAt": "2026-11-04T17:21:57.874Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": null,
@@ -130,7 +130,150 @@
   "leads": [],
   "promotions": [],
   "socialMetrics": [],
-  "contentCalendar": [],
+  "contentCalendar": [
+    {
+      "id": "cnt-1793812914575-1",
+      "dayOfWeek": "จันทร์",
+      "dayIndex": 0,
+      "platform": "facebook",
+      "format": "Single Photo",
+      "productionGoal": "sales",
+      "contentPillar": "สินค้า & กาแฟสเปเชียลตี้",
+      "publishTime": "08:00 น.",
+      "title": "☕ Monday Booster: อเมริกาโน่ House Blend ปลุกพลังสัปดาห์ใหม่",
+      "captionDraft": "เริ่มต้นเช้าวันจันทร์อย่างสดชื่นกับ Americano เมล็ด House Blend คั่วกลาง โทนนัทตี้ช็อกโกแลต กลมกล่อม ไม่ขมบาดคอ ☀️ สั่งล่วงหน้าผ่าน Line OA หรือ Grab ได้เลยน้า",
+      "hashtags": [
+        "ThreePigsCafe",
+        "คาเฟ่พนัสนิคม",
+        "MondayBooster",
+        "กาแฟพนัสนิคม"
+      ],
+      "assignedBarista": "น้องมิ้นท์",
+      "status": "published"
+    },
+    {
+      "id": "cnt-1793812914575-2",
+      "dayOfWeek": "อังคาร",
+      "dayIndex": 1,
+      "platform": "tiktok",
+      "format": "TikTok / Reels",
+      "productionGoal": "marketing",
+      "contentPillar": "เบื้องหลังบาริสต้า",
+      "publishTime": "12:00 น.",
+      "title": "🎬 Behind the Scenes: ศิลปะการเท Dirty Coffee ช็อตสกัดสด",
+      "captionDraft": "ดูความสวยงามของการสกัดช็อตเอสเพรสโซ่ร้อนๆ ไหลลงสู่นมเย็นจัดสูตรลับ 🌿 ความฟินที่ดื่มทีละอึกแล้วได้ทั้งความเข้มข้นและความละมุนพร้อมกัน ✨",
+      "hashtags": [
+        "ThreePigsCafe",
+        "DirtyCoffee",
+        "BaristaLife",
+        "คาเฟ่ชลบุรี",
+        "TikTokพากิน"
+      ],
+      "assignedBarista": "น้องเจมส์",
+      "status": "ready"
+    },
+    {
+      "id": "cnt-1793812914575-3",
+      "dayOfWeek": "พุธ",
+      "dayIndex": 2,
+      "platform": "line",
+      "format": "Line Broadcast",
+      "productionGoal": "sales",
+      "contentPillar": "โปรโมชัน & สิทธิพิเศษ",
+      "publishTime": "11:15 น.",
+      "title": "🥐 Midweek Sweet Treat: คู่เครื่องดื่ม + ครัวซองต์ลด 20฿",
+      "captionDraft": "เติมพลังช่วงกลางสัปดาห์! สั่งเครื่องดื่มเมนูใดก็ได้คู่ครัวซองต์เนยฝรั่งเศสอบร้อน รับส่วนลดทันที 20฿ เพียงแสดงข้อความนี้ที่หน้าร้านพนัสนิคมน้า 🐷💛",
+      "hashtags": [
+        "ThreePigsCafe",
+        "โปรโมชั่นคาเฟ่",
+        "ครัวซองต์พนัสนิคม",
+        "SweetTreat"
+      ],
+      "assignedBarista": "น้องพลอย",
+      "status": "production"
+    },
+    {
+      "id": "cnt-1793812914575-4",
+      "dayOfWeek": "พฤหัสบดี",
+      "dayIndex": 3,
+      "platform": "instagram",
+      "format": "Photo Carousel",
+      "productionGoal": "marketing",
+      "contentPillar": "รีวิวจากลูกค้า",
+      "publishTime": "15:30 น.",
+      "title": "💖 Customer Story & Member Perks: สิทธิพิเศษสมาชิกสะสมแต้ม 10 ฟรี 1",
+      "captionDraft": "ขอบคุณรีวิวและรอยยิ้มจากคุณลูกค้าประจำนะคะ 🌸 ใครยังไม่ได้สะสมแต้ม แวะมาสมัครสมาชิกฟรีที่ร้าน หรือแอด Line OA สะสมครบ 10 แก้วรับเครื่องดื่มฟรี 1 แก้วได้เลยค่า!",
+      "hashtags": [
+        "ThreePigsCafe",
+        "รีวิวคาเฟ่",
+        "สมาชิกThreePigs",
+        "พนัสนิคม"
+      ],
+      "assignedBarista": "น้องต้น",
+      "status": "draft"
+    },
+    {
+      "id": "cnt-1793812914575-5",
+      "dayOfWeek": "ศุกร์",
+      "dayIndex": 4,
+      "platform": "facebook",
+      "format": "Single Photo",
+      "productionGoal": "sales",
+      "contentPillar": "โปรโมชัน & สิทธิพิเศษ",
+      "publishTime": "10:30 น.",
+      "title": "🛵 TGIF Office Break: ชวนแก๊งที่ทำงานพนัสนิคมสั่ง Grab ครบ 250฿ ลด 20%",
+      "captionDraft": "วันศุกร์แล้ววว รวมตี้ที่ออฟฟิศ/โรงพยาบาลพนัส กดสั่ง GrabFood ส่งตรงถึงที่ แยกน้ำแข็งอย่างดี พร้อมเครื่องดื่มชาไทย กาแฟ และมัทฉะพรีเมียม สดชื่นถึงเย็นแน่นอน 💨",
+      "hashtags": [
+        "GrabFoodพนัสนิคม",
+        "TGIF",
+        "ThreePigsCafe",
+        "กาแฟสดส่งถึงที่"
+      ],
+      "assignedBarista": "น้องมิ้นท์",
+      "status": "draft"
+    },
+    {
+      "id": "cnt-1793812914575-6",
+      "dayOfWeek": "เสาร์",
+      "dayIndex": 5,
+      "platform": "instagram",
+      "format": "Photo Carousel",
+      "productionGoal": "marketing",
+      "contentPillar": "บรรยากาศร้านพนัสนิคม",
+      "publishTime": "09:30 น.",
+      "title": "📸 Weekend Chill & Photogenic Corners: เช็คอินมุมแสงสวยสาขาพนัสนิคม",
+      "captionDraft": "วันเสาร์แดดอ่อนๆ แวะมาสูดกลิ่นกาแฟ นั่งฟังเพลงสบายๆ หรือถ่ายรูปกับมุมไฮไลท์แสงธรรมชาติที่ Three Pigs Cafe พนัสนิคม บรรยากาศอบอุ่นเป็นกันเอง ยินดีต้อนรับทุกคนเลยน้า 🌿🐷",
+      "hashtags": [
+        "ThreePigsCafe",
+        "คาเฟ่พนัสนิคม",
+        "ChonburiCafeHopping",
+        "รีวิวชลบุรี"
+      ],
+      "assignedBarista": "น้องเจมส์",
+      "status": "draft"
+    },
+    {
+      "id": "cnt-1793812914575-7",
+      "dayOfWeek": "อาทิตย์",
+      "dayIndex": 6,
+      "platform": "tiktok",
+      "format": "TikTok / Reels",
+      "productionGoal": "sales",
+      "contentPillar": "สินค้า & กาแฟสเปเชียลตี้",
+      "publishTime": "13:00 น.",
+      "title": "☕ Sunday Specialty Slow Bar: ดริปเมล็ด Single Origin พิเศษประจำสัปดาห์",
+      "captionDraft": "จิบคู่ความสงบในวันอาทิตย์กับ Slow Bar ดริปเมล็ดพิเศษ หอมฟลอรัลและผลไม้สดชื่น บาริสต้าพร้อมเล่าเรื่องราวเมล็ดกาแฟให้ฟังที่เคาน์เตอร์บาร์ค่า 🌸",
+      "hashtags": [
+        "SlowBar",
+        "DripCoffee",
+        "SpecialtyCoffee",
+        "ThreePigsCafe",
+        "พนัสนิคม"
+      ],
+      "assignedBarista": "น้องมิ้นท์",
+      "status": "draft"
+    }
+  ],
   "baristas": [
     {
       "id": "b-1793616835086",
