@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T07:52:34.890Z",
+  "updatedAt": "2026-11-04T07:54:52.591Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": null,
@@ -205,6 +205,29 @@
   ],
   "dutyChecklist": [],
   "systemUsers": [
+    {
+      "id": "u-1793778888132",
+      "username": "chanika",
+      "password": "Chanika.mint",
+      "name": "Chanika",
+      "nickname": "Mint",
+      "position": "บาริสต้า & แคชเชียร์",
+      "phone": "0642402583",
+      "isBarista": true,
+      "linkedBaristaId": "b-1793616835086",
+      "isActive": true,
+      "createdAt": "2026-11-04",
+      "permissions": {
+        "overview": "view_only",
+        "channels": "disabled",
+        "marketing": "disabled",
+        "leads": "disabled",
+        "crm": "full_access",
+        "reviews": "full_access",
+        "barista": "full_access",
+        "system_control": "disabled"
+      }
+    },
     {
       "id": "u-1793778734253",
       "username": "suitchanun",
