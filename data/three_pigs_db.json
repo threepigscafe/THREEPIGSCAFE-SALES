@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T07:51:04.004Z",
+  "updatedAt": "2026-11-04T07:52:17.159Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": null,
@@ -205,6 +205,28 @@
   ],
   "dutyChecklist": [],
   "systemUsers": [
+    {
+      "id": "u-1793778734253",
+      "username": "suitchanun",
+      "password": "Supitchanun.229",
+      "name": "Supitchanun",
+      "nickname": "Supitchyyy",
+      "position": "กองหลังขาโหด",
+      "phone": "0810490561",
+      "isBarista": false,
+      "isActive": true,
+      "createdAt": "2026-11-04",
+      "permissions": {
+        "overview": "full_access",
+        "channels": "full_access",
+        "marketing": "full_access",
+        "leads": "full_access",
+        "crm": "full_access",
+        "reviews": "full_access",
+        "barista": "full_access",
+        "system_control": "full_access"
+      }
+    },
     {
       "id": "u-admin-1",
       "username": "KANCHAI.KCPB",
