@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T15:04:31.196Z",
+  "updatedAt": "2026-11-04T15:04:34.376Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": null,
@@ -140,26 +140,6 @@
       ],
       "assignedBarista": "น้องเจมส์",
       "status": "ready"
-    },
-    {
-      "id": "cnt-1793804657926-3",
-      "dayOfWeek": "พุธ",
-      "dayIndex": 2,
-      "platform": "line",
-      "format": "Line Broadcast",
-      "productionGoal": "sales",
-      "contentPillar": "โปรโมชัน & สิทธิพิเศษ",
-      "publishTime": "11:15 น.",
-      "title": "🥐 Midweek Sweet Treat: คู่เครื่องดื่ม + ครัวซองต์ลด 20฿",
-      "captionDraft": "เติมพลังช่วงกลางสัปดาห์! สั่งเครื่องดื่มเมนูใดก็ได้คู่ครัวซองต์เนยฝรั่งเศสอบร้อน รับส่วนลดทันที 20฿ เพียงแสดงข้อความนี้ที่หน้าร้านพนัสนิคมน้า 🐷💛",
-      "hashtags": [
-        "ThreePigsCafe",
-        "โปรโมชั่นคาเฟ่",
-        "ครัวซองต์พนัสนิคม",
-        "SweetTreat"
-      ],
-      "assignedBarista": "น้องพลอย",
-      "status": "production"
     },
     {
       "id": "cnt-1793804657926-4",
