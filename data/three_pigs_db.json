@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T15:04:49.806Z",
+  "updatedAt": "2026-11-04T15:04:58.455Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": null,
@@ -119,28 +119,7 @@
   "leads": [],
   "promotions": [],
   "socialMetrics": [],
-  "contentCalendar": [
-    {
-      "id": "cnt-1793804657926-6",
-      "dayOfWeek": "เสาร์",
-      "dayIndex": 5,
-      "platform": "instagram",
-      "format": "Photo Carousel",
-      "productionGoal": "marketing",
-      "contentPillar": "บรรยากาศร้านพนัสนิคม",
-      "publishTime": "09:30 น.",
-      "title": "📸 Weekend Chill & Photogenic Corners: เช็คอินมุมแสงสวยสาขาพนัสนิคม",
-      "captionDraft": "วันเสาร์แดดอ่อนๆ แวะมาสูดกลิ่นกาแฟ นั่งฟังเพลงสบายๆ หรือถ่ายรูปกับมุมไฮไลท์แสงธรรมชาติที่ Three Pigs Cafe พนัสนิคม บรรยากาศอบอุ่นเป็นกันเอง ยินดีต้อนรับทุกคนเลยน้า 🌿🐷",
-      "hashtags": [
-        "ThreePigsCafe",
-        "คาเฟ่พนัสนิคม",
-        "ChonburiCafeHopping",
-        "รีวิวชลบุรี"
-      ],
-      "assignedBarista": "น้องเจมส์",
-      "status": "draft"
-    }
-  ],
+  "contentCalendar": [],
   "baristas": [
     {
       "id": "b-1793616835086",
