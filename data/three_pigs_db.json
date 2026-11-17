@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T18:25:30.594Z",
+  "updatedAt": "2026-11-17T18:26:03.105Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": null,
@@ -214,7 +214,18 @@
       "leadDuty": "ชงกาแฟ"
     }
   ],
-  "dutyChecklist": [],
+  "dutyChecklist": [
+    {
+      "id": "sop-1794939960218",
+      "category": "ดูแลความสะอาด (Sanitation)",
+      "task": "เช็ดกระจก",
+      "completed": false,
+      "assignedTo": "ทุกคนในกะ",
+      "timeSlot": "08:45 น.",
+      "startTime": "08:45",
+      "frequency": "daily"
+    }
+  ],
   "sopCategories": [
     {
       "id": "เปิดร้าน (Opening)",
