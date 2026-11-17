@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T18:19:56.173Z",
+  "updatedAt": "2026-11-17T18:19:59.467Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": null,
@@ -259,7 +259,8 @@
         "crm": "full_access",
         "reviews": "full_access",
         "barista": "full_access",
-        "system_control": "full_access"
+        "system_control": "full_access",
+        "sop": "full_access"
       }
     },
     {
