@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T18:59:19.775Z",
+  "updatedAt": "2026-11-17T19:07:37.980Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": null,
@@ -299,11 +299,13 @@
   "attendanceRecords": [],
   "storeLocation": {
     "storeName": "Three Pigs Cafe - พนัสนิคม",
-    "addressText": "อ.พนัสนิคม จ.ชลบุรี",
-    "latitude": 13.4526,
-    "longitude": 101.1843,
+    "addressText": "96/8 อ.พนัสนิคม จ.ชลบุรี 20140",
+    "googleMapsUrl": "https://maps.app.goo.gl/epp9qCBZnavCfvRWA?g_st=ic",
+    "latitude": 13.4572453,
+    "longitude": 101.1743483,
     "radiusMeters": 150,
-    "isPinned": false
+    "isPinned": true,
+    "isLocked": true
   },
   "systemUsers": [
     {
