@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T18:19:59.467Z",
+  "updatedAt": "2026-11-17T18:25:30.594Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": null,
@@ -215,6 +215,48 @@
     }
   ],
   "dutyChecklist": [],
+  "sopCategories": [
+    {
+      "id": "เปิดร้าน (Opening)",
+      "name": "เปิดร้าน (Opening)",
+      "shortLabel": "เปิดร้าน",
+      "description": "วอร์มเครื่อง Calibrate กาแฟ เตรียมตู้ขนม & เงินทอน",
+      "iconName": "coffee",
+      "colorTheme": "amber"
+    },
+    {
+      "id": "ดูแลความสะอาด (Sanitation)",
+      "name": "ดูแลความสะอาด (Sanitation)",
+      "shortLabel": "ทำความสะอาด",
+      "description": "เช็ดโต๊ะ ก้านสตรีม ล้างบาร์ เคลียร์แก้ว และสุขอนามัย",
+      "iconName": "sparkles",
+      "colorTheme": "emerald"
+    },
+    {
+      "id": "อัดวิดีโอ & ตัดคลิป (Content/Video)",
+      "name": "อัดวิดีโอ & ตัดคลิป (Content/Video)",
+      "shortLabel": "อัดวิดีโอ & ตัดคลิป",
+      "description": "ถ่ายคลิปชงเมนู อัดเบื้องหลัง ตัดต่อ Reels/TikTok",
+      "iconName": "video",
+      "colorTheme": "rose"
+    },
+    {
+      "id": "บริการ & เตรียมสต็อก (Service & Stock)",
+      "name": "บริการ & เตรียมสต็อก (Service & Stock)",
+      "shortLabel": "บริการ & สต็อก",
+      "description": "เติมน้ำแข็ง นม เมล็ดกาแฟ เบเกอรี่ และดูแลลูกค้า",
+      "iconName": "store",
+      "colorTheme": "blue"
+    },
+    {
+      "id": "ปิดร้าน & สรุปยอด (Closing)",
+      "name": "ปิดร้าน & สรุปยอด (Closing)",
+      "shortLabel": "ปิดร้าน & สรุปยอด",
+      "description": "Backflush หัวชง ล้าง Grinder นับเงินสด & ปิดกะ",
+      "iconName": "check",
+      "colorTheme": "stone"
+    }
+  ],
   "systemUsers": [
     {
       "id": "u-1793778888132",
