@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T10:20:42.295Z",
+  "updatedAt": "2026-11-18T10:21:13.465Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -152,7 +152,7 @@
         "ทำความสะอาด",
         "สรุปยอดรายวัน"
       ],
-      "weeklyHours": 48,
+      "weeklyHours": 0,
       "colorTag": "#E27D60"
     }
   ],
