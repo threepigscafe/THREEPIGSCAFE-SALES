@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T17:52:38.610Z",
+  "updatedAt": "2026-11-19T17:53:28.284Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -254,6 +254,16 @@
       "frequency": "daily",
       "targetDate": "2026-11-20",
       "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ"
+    },
+    {
+      "id": "sop-1795110805849",
+      "category": "ดูแลความสะอาด (Sanitation)",
+      "task": "เช็ดกระจกบานหน้าร้าน",
+      "completed": false,
+      "assignedTo": "ทุกคนในกะ",
+      "timeSlot": "08:40 น.",
+      "startTime": "08:40",
+      "frequency": "daily"
     }
   ],
   "sopCategories": [
@@ -329,7 +339,7 @@
     },
     "2026-11-20": {
       "date": "2026-11-20",
-      "totalTasks": 2,
+      "totalTasks": 3,
       "completedTasks": 0,
       "isFullyCompleted": false,
       "items": [
@@ -356,9 +366,19 @@
           "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
           "frequency": "daily",
           "targetDate": "2026-11-20"
+        },
+        {
+          "id": "sop-1795110805849",
+          "category": "ดูแลความสะอาด (Sanitation)",
+          "task": "เช็ดกระจกบานหน้าร้าน",
+          "completed": false,
+          "assignedTo": "ทุกคนในกะ",
+          "timeSlot": "08:40 น.",
+          "startTime": "08:40",
+          "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-19T17:52:36.209Z"
+      "updatedAt": "2026-11-19T17:53:25.859Z"
     }
   },
   "attendanceRecords": [],
