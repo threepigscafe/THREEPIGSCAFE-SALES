@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:07:00.451Z",
+  "updatedAt": "2026-11-19T18:08:13.552Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -326,6 +326,17 @@
       "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
       "sortOrder": 0,
       "isPinned": true
+    },
+    {
+      "id": "sop-1795111691106",
+      "category": "บริการ & เตรียมสต็อก (Service & Stock)",
+      "task": "เช็กสต๊อก",
+      "completed": false,
+      "assignedTo": "ทุกคนในกะ",
+      "timeSlot": "08:30 น.",
+      "startTime": "08:30",
+      "frequency": "daily",
+      "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง"
     }
   ],
   "sopCategories": [
@@ -401,7 +412,7 @@
     },
     "2026-11-20": {
       "date": "2026-11-20",
-      "totalTasks": 8,
+      "totalTasks": 9,
       "completedTasks": 0,
       "isFullyCompleted": false,
       "items": [
@@ -500,9 +511,20 @@
           "frequency": "daily",
           "sortOrder": 0,
           "isPinned": true
+        },
+        {
+          "id": "sop-1795111691106",
+          "category": "บริการ & เตรียมสต็อก (Service & Stock)",
+          "task": "เช็กสต๊อก",
+          "completed": false,
+          "assignedTo": "ทุกคนในกะ",
+          "timeSlot": "08:30 น.",
+          "startTime": "08:30",
+          "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
+          "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-19T18:06:58.051Z"
+      "updatedAt": "2026-11-19T18:08:11.119Z"
     }
   },
   "attendanceRecords": [],
