@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T09:55:45.351Z",
+  "updatedAt": "2026-11-19T09:58:25.198Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -151,6 +151,22 @@
         "ขาย & แคชเชียร์",
         "ทำความสะอาด",
         "สรุปยอดรายวัน"
+      ],
+      "weeklyHours": 0,
+      "colorTag": "#E27D60"
+    },
+    {
+      "id": "b-1795082300305",
+      "name": "Thanakrit",
+      "nickname": "Ohm",
+      "phone": "0958020004",
+      "avatarSeed": "ohm",
+      "role": "Barista & Cashier",
+      "primaryDuties": [
+        "ชงกาแฟ",
+        "ขาย & แคชเชียร์",
+        "สรุปยอดรายวัน",
+        "ทำความสะอาด"
       ],
       "weeklyHours": 0,
       "colorTag": "#E27D60"
