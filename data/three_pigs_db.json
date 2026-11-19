@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:19:12.823Z",
+  "updatedAt": "2026-11-19T18:19:48.447Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -180,9 +180,9 @@
       "shortLabel": "เต็มวัน",
       "time": "08:30 - 18:30 น.",
       "hours": 10,
-      "description": "เสาร์-อาทิตย์ ลูกค้าหนาแน่น คุมสโลว์บาร์ & แคชเชียร์ตลอดวัน",
+      "description": "",
       "icon": "⚡",
-      "colorTheme": "emerald",
+      "colorTheme": "blue",
       "isOffType": false
     },
     {
