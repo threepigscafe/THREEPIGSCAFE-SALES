@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:12:30.277Z",
+  "updatedAt": "2026-11-19T18:12:41.823Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -241,7 +241,7 @@
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน",
-      "sortOrder": 3
+      "sortOrder": 4
     },
     {
       "id": "sop-1795110756199",
@@ -253,7 +253,7 @@
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
-      "sortOrder": 0,
+      "sortOrder": 1,
       "isPinned": true
     },
     {
@@ -265,7 +265,7 @@
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 4
+      "sortOrder": 5
     },
     {
       "id": "sop-1795110864356",
@@ -276,7 +276,7 @@
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 5
+      "sortOrder": 6
     },
     {
       "id": "sop-1795111431958",
@@ -288,7 +288,7 @@
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้น และใช้ไม้กวาดพลาสติก สำหรับกวาดบริเวณโซนในร้าน\nยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดเน้นบริเวณทางเดินและใต้โต๊ะกับใต้โซฟา",
-      "sortOrder": 6
+      "sortOrder": 7
     },
     {
       "id": "sop-1795111486920",
@@ -300,7 +300,7 @@
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
-      "sortOrder": 7
+      "sortOrder": 8
     },
     {
       "id": "sop-1795111561664",
@@ -312,7 +312,7 @@
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้ไม้กวาดดอกหญ้า และใช้ผ้าขี้ริ้วสำหรับและใช้ผ้าขี้ริ้วสำหรับไว้ถูหน้าร้าน",
-      "sortOrder": 8
+      "sortOrder": 9
     },
     {
       "id": "sop-1795111609276",
@@ -324,7 +324,7 @@
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
-      "sortOrder": 1,
+      "sortOrder": 2,
       "isPinned": true
     },
     {
@@ -337,7 +337,7 @@
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
-      "sortOrder": 2,
+      "sortOrder": 3,
       "isPinned": true
     },
     {
@@ -348,7 +348,8 @@
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:45 น.",
       "startTime": "08:45",
-      "frequency": "daily"
+      "frequency": "daily",
+      "sortOrder": 10
     },
     {
       "id": "sop-1795111876321",
@@ -358,7 +359,8 @@
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:45 น.",
       "startTime": "08:45",
-      "frequency": "daily"
+      "frequency": "daily",
+      "sortOrder": 11
     },
     {
       "id": "sop-1795111947851",
@@ -369,7 +371,9 @@
       "timeSlot": "08:45 น.",
       "startTime": "08:45",
       "frequency": "daily",
-      "sopNotes": "เน้นบริเวณตัวเครื่องและตามซอกต่างๆรวมถึงใต้เครื่องและรอบๆเครื่อง"
+      "sopNotes": "เน้นบริเวณตัวเครื่องและตามซอกต่างๆรวมถึงใต้เครื่องและรอบๆเครื่อง",
+      "sortOrder": 0,
+      "isPinned": true
     }
   ],
   "sopCategories": [
@@ -459,7 +463,7 @@
           "startTime": "08:40",
           "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน",
           "frequency": "daily",
-          "sortOrder": 3
+          "sortOrder": 4
         },
         {
           "id": "sop-1795110756199",
@@ -471,7 +475,7 @@
           "startTime": "08:30",
           "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
           "frequency": "daily",
-          "sortOrder": 0,
+          "sortOrder": 1,
           "isPinned": true
         },
         {
@@ -483,7 +487,7 @@
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 4
+          "sortOrder": 5
         },
         {
           "id": "sop-1795110864356",
@@ -494,7 +498,7 @@
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 5
+          "sortOrder": 6
         },
         {
           "id": "sop-1795111431958",
@@ -506,7 +510,7 @@
           "startTime": "08:40",
           "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้น และใช้ไม้กวาดพลาสติก สำหรับกวาดบริเวณโซนในร้าน\nยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดเน้นบริเวณทางเดินและใต้โต๊ะกับใต้โซฟา",
           "frequency": "daily",
-          "sortOrder": 6
+          "sortOrder": 7
         },
         {
           "id": "sop-1795111486920",
@@ -518,7 +522,7 @@
           "startTime": "08:40",
           "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
           "frequency": "daily",
-          "sortOrder": 7
+          "sortOrder": 8
         },
         {
           "id": "sop-1795111561664",
@@ -530,7 +534,7 @@
           "startTime": "08:40",
           "sopNotes": "ใช้ไม้กวาดดอกหญ้า และใช้ผ้าขี้ริ้วสำหรับและใช้ผ้าขี้ริ้วสำหรับไว้ถูหน้าร้าน",
           "frequency": "daily",
-          "sortOrder": 8
+          "sortOrder": 9
         },
         {
           "id": "sop-1795111609276",
@@ -542,7 +546,7 @@
           "startTime": "08:30",
           "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
           "frequency": "daily",
-          "sortOrder": 1,
+          "sortOrder": 2,
           "isPinned": true
         },
         {
@@ -555,7 +559,7 @@
           "startTime": "08:30",
           "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
           "frequency": "daily",
-          "sortOrder": 2,
+          "sortOrder": 3,
           "isPinned": true
         },
         {
@@ -566,7 +570,8 @@
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:45 น.",
           "startTime": "08:45",
-          "frequency": "daily"
+          "frequency": "daily",
+          "sortOrder": 10
         },
         {
           "id": "sop-1795111876321",
@@ -576,7 +581,8 @@
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:45 น.",
           "startTime": "08:45",
-          "frequency": "daily"
+          "frequency": "daily",
+          "sortOrder": 11
         },
         {
           "id": "sop-1795111947851",
@@ -587,10 +593,12 @@
           "timeSlot": "08:45 น.",
           "startTime": "08:45",
           "sopNotes": "เน้นบริเวณตัวเครื่องและตามซอกต่างๆรวมถึงใต้เครื่องและรอบๆเครื่อง",
-          "frequency": "daily"
+          "frequency": "daily",
+          "sortOrder": 0,
+          "isPinned": true
         }
       ],
-      "updatedAt": "2026-11-19T18:12:27.864Z"
+      "updatedAt": "2026-11-19T18:12:39.407Z"
     }
   },
   "attendanceRecords": [],
