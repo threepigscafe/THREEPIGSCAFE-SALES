@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T17:53:28.284Z",
+  "updatedAt": "2026-11-19T17:53:40.496Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -240,7 +240,6 @@
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "targetDate": "2026-11-20",
       "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน"
     },
     {
@@ -352,8 +351,7 @@
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน",
-          "frequency": "daily",
-          "targetDate": "2026-11-20"
+          "frequency": "daily"
         },
         {
           "id": "sop-1795110756199",
@@ -378,7 +376,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-19T17:53:25.859Z"
+      "updatedAt": "2026-11-19T17:53:38.071Z"
     }
   },
   "attendanceRecords": [],
