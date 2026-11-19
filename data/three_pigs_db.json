@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:25:41.039Z",
+  "updatedAt": "2026-11-19T18:27:21.667Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -556,6 +556,16 @@
       "timeSlot": "16:00 น.",
       "startTime": "16:00",
       "frequency": "daily"
+    },
+    {
+      "id": "sop-1795112839206",
+      "category": "อัดวิดีโอ & ตัดคลิป (Content/Video)",
+      "task": "อัดวิดีโอและตัดวิดีโอ 2คลิป(ทำงานสองคน)",
+      "completed": false,
+      "assignedTo": "ทุกคนในกะ",
+      "timeSlot": "ระหว่างวันตอนที่ว่าง",
+      "frequency": "daily",
+      "targetDate": "2026-11-20"
     }
   ],
   "sopCategories": [
@@ -631,7 +641,7 @@
     },
     "2026-11-20": {
       "date": "2026-11-20",
-      "totalTasks": 19,
+      "totalTasks": 20,
       "completedTasks": 0,
       "isFullyCompleted": false,
       "items": [
@@ -849,9 +859,19 @@
           "timeSlot": "16:00 น.",
           "startTime": "16:00",
           "frequency": "daily"
+        },
+        {
+          "id": "sop-1795112839206",
+          "category": "อัดวิดีโอ & ตัดคลิป (Content/Video)",
+          "task": "อัดวิดีโอและตัดวิดีโอ 2คลิป(ทำงานสองคน)",
+          "completed": false,
+          "assignedTo": "ทุกคนในกะ",
+          "timeSlot": "ระหว่างวันตอนที่ว่าง",
+          "frequency": "daily",
+          "targetDate": "2026-11-20"
         }
       ],
-      "updatedAt": "2026-11-19T18:18:34.515Z"
+      "updatedAt": "2026-11-19T18:27:19.220Z"
     }
   },
   "attendanceRecords": [],
