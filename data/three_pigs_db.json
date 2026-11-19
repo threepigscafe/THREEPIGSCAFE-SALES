@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T17:53:40.496Z",
+  "updatedAt": "2026-11-19T17:53:44.202Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -251,7 +251,6 @@
       "timeSlot": "08:30 น.",
       "startTime": "08:30",
       "frequency": "daily",
-      "targetDate": "2026-11-20",
       "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ"
     },
     {
@@ -362,8 +361,7 @@
           "timeSlot": "08:30 น.",
           "startTime": "08:30",
           "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
-          "frequency": "daily",
-          "targetDate": "2026-11-20"
+          "frequency": "daily"
         },
         {
           "id": "sop-1795110805849",
@@ -376,7 +374,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-19T17:53:38.071Z"
+      "updatedAt": "2026-11-19T17:53:41.785Z"
     }
   },
   "attendanceRecords": [],
