@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:29:42.225Z",
+  "updatedAt": "2026-11-19T18:30:31.342Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -483,7 +483,7 @@
       "startTime": "08:45",
       "frequency": "daily",
       "sopNotes": "เน้นบริเวณตัวเครื่องและตามซอกต่างๆรวมถึงใต้เครื่องและรอบๆเครื่อง",
-      "sortOrder": 1,
+      "sortOrder": 0,
       "isPinned": true
     },
     {
@@ -585,7 +585,7 @@
       "startTime": "15:00",
       "frequency": "daily",
       "sopNotes": "1ขวด แบ่งให้ใช้ได้3ครั้ง ใส่3ช่องของบ่อไดไขมัน\nทิ้งไว้ 15 นาที ค่อยเปิดน้ำทิ้ง\nหลังจากนั้นเอาน้ำฉีด น้ำที่ไปมาจากอ่างล้างแก้วลงท่อในห้องน้ำ",
-      "sortOrder": 0,
+      "sortOrder": 1,
       "isPinned": true
     }
   ],
@@ -807,7 +807,7 @@
           "startTime": "08:45",
           "sopNotes": "เน้นบริเวณตัวเครื่องและตามซอกต่างๆรวมถึงใต้เครื่องและรอบๆเครื่อง",
           "frequency": "daily",
-          "sortOrder": 1,
+          "sortOrder": 0,
           "isPinned": true
         },
         {
@@ -909,11 +909,11 @@
           "startTime": "15:00",
           "sopNotes": "1ขวด แบ่งให้ใช้ได้3ครั้ง ใส่3ช่องของบ่อไดไขมัน\nทิ้งไว้ 15 นาที ค่อยเปิดน้ำทิ้ง\nหลังจากนั้นเอาน้ำฉีด น้ำที่ไปมาจากอ่างล้างแก้วลงท่อในห้องน้ำ",
           "frequency": "daily",
-          "sortOrder": 0,
+          "sortOrder": 1,
           "isPinned": true
         }
       ],
-      "updatedAt": "2026-11-19T18:29:39.771Z"
+      "updatedAt": "2026-11-19T18:30:28.877Z"
     }
   },
   "attendanceRecords": [],
