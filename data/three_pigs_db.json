@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:19:48.447Z",
+  "updatedAt": "2026-11-19T18:20:05.857Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -189,9 +189,9 @@
       "id": "off",
       "label": "วันหยุด (Rotating Day Off)",
       "shortLabel": "วันหยุด",
-      "time": "1-2 วัน/สัปดาห์",
+      "time": "หยุดประจำสัปดาห์",
       "hours": 0,
-      "description": "หมุนเวียนวันพักผ่อนอย่างเป็นธรรม ไม่เกิน 40-48 ชม./สัปดาห์",
+      "description": "",
       "icon": "💤",
       "colorTheme": "stone",
       "isOffType": true
