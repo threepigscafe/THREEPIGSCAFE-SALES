@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T09:49:29.748Z",
+  "updatedAt": "2026-11-19T09:55:45.351Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -300,6 +300,30 @@
     "isLocked": true
   },
   "systemUsers": [
+    {
+      "id": "u-1795082141314",
+      "username": "ohm",
+      "password": "0947059585",
+      "name": "thanakrit",
+      "nickname": "ohm",
+      "position": "บาริสต้า & แคชเชียร์",
+      "phone": "0958020004",
+      "isBarista": false,
+      "isActive": true,
+      "createdAt": "2026-11-19",
+      "permissions": {
+        "overview": "view_only",
+        "channels": "disabled",
+        "marketing": "disabled",
+        "leads": "disabled",
+        "crm": "full_access",
+        "reviews": "full_access",
+        "barista": "full_access",
+        "attendance": "full_access",
+        "sop": "full_access",
+        "system_control": "disabled"
+      }
+    },
     {
       "id": "u-1793778888132",
       "username": "chanika",
