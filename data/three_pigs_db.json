@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:20:26.756Z",
+  "updatedAt": "2026-11-19T18:22:25.672Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -267,6 +267,33 @@
       "id": "sh-b-1793616835086-พฤหัสบดี-1795112424405",
       "date": "2026-11-20",
       "dayName": "พฤหัสบดี",
+      "baristaId": "b-1793616835086",
+      "shiftType": "full",
+      "shiftHours": "08:30 - 18:30 น.",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1795082300305-อาทิตย์-1795112540143",
+      "date": "2026-11-20",
+      "dayName": "อาทิตย์",
+      "baristaId": "b-1795082300305",
+      "shiftType": "full",
+      "shiftHours": "08:30 - 18:30 น.",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1795082300305-เสาร์-1795112541758",
+      "date": "2026-11-20",
+      "dayName": "เสาร์",
+      "baristaId": "b-1795082300305",
+      "shiftType": "full",
+      "shiftHours": "08:30 - 18:30 น.",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1793616835086-เสาร์-1795112543242",
+      "date": "2026-11-20",
+      "dayName": "เสาร์",
       "baristaId": "b-1793616835086",
       "shiftType": "full",
       "shiftHours": "08:30 - 18:30 น.",
