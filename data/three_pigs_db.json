@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:30:31.342Z",
+  "updatedAt": "2026-11-19T18:30:53.193Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -352,7 +352,7 @@
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน",
-      "sortOrder": 5
+      "sortOrder": 6
     },
     {
       "id": "sop-1795110756199",
@@ -364,7 +364,7 @@
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
-      "sortOrder": 2,
+      "sortOrder": 3,
       "isPinned": true
     },
     {
@@ -376,7 +376,7 @@
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 6
+      "sortOrder": 7
     },
     {
       "id": "sop-1795110864356",
@@ -387,7 +387,7 @@
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 7
+      "sortOrder": 8
     },
     {
       "id": "sop-1795111431958",
@@ -399,7 +399,7 @@
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้น และใช้ไม้กวาดพลาสติก สำหรับกวาดบริเวณโซนในร้าน\nยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดเน้นบริเวณทางเดินและใต้โต๊ะกับใต้โซฟา",
-      "sortOrder": 8
+      "sortOrder": 9
     },
     {
       "id": "sop-1795111486920",
@@ -411,7 +411,7 @@
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
-      "sortOrder": 9
+      "sortOrder": 10
     },
     {
       "id": "sop-1795111561664",
@@ -423,7 +423,7 @@
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้ไม้กวาดดอกหญ้า และใช้ผ้าขี้ริ้วสำหรับและใช้ผ้าขี้ริ้วสำหรับไว้ถูหน้าร้าน",
-      "sortOrder": 10
+      "sortOrder": 11
     },
     {
       "id": "sop-1795111609276",
@@ -435,7 +435,7 @@
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
-      "sortOrder": 3,
+      "sortOrder": 4,
       "isPinned": true
     },
     {
@@ -448,7 +448,7 @@
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
-      "sortOrder": 4,
+      "sortOrder": 5,
       "isPinned": true
     },
     {
@@ -460,7 +460,7 @@
       "timeSlot": "08:45 น.",
       "startTime": "08:45",
       "frequency": "daily",
-      "sortOrder": 11
+      "sortOrder": 12
     },
     {
       "id": "sop-1795111876321",
@@ -471,7 +471,7 @@
       "timeSlot": "08:45 น.",
       "startTime": "08:45",
       "frequency": "daily",
-      "sortOrder": 12
+      "sortOrder": 13
     },
     {
       "id": "sop-1795111947851",
@@ -483,7 +483,7 @@
       "startTime": "08:45",
       "frequency": "daily",
       "sopNotes": "เน้นบริเวณตัวเครื่องและตามซอกต่างๆรวมถึงใต้เครื่องและรอบๆเครื่อง",
-      "sortOrder": 0,
+      "sortOrder": 1,
       "isPinned": true
     },
     {
@@ -495,7 +495,7 @@
       "timeSlot": "08:50 น.",
       "startTime": "08:50",
       "frequency": "daily",
-      "sortOrder": 14
+      "sortOrder": 15
     },
     {
       "id": "sop-1795112061326",
@@ -506,7 +506,7 @@
       "timeSlot": "08:50 น.",
       "startTime": "08:50",
       "frequency": "daily",
-      "sortOrder": 15
+      "sortOrder": 16
     },
     {
       "id": "sop-1795112103263",
@@ -517,7 +517,7 @@
       "timeSlot": "08:50 น.",
       "startTime": "08:50",
       "frequency": "daily",
-      "sortOrder": 16
+      "sortOrder": 17
     },
     {
       "id": "sop-1795112152627",
@@ -528,7 +528,7 @@
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 13
+      "sortOrder": 14
     },
     {
       "id": "sop-1795112207621",
@@ -540,7 +540,7 @@
       "startTime": "08:50",
       "frequency": "daily",
       "sopNotes": "ขัดพื้นและโถส้วมและกำแพง",
-      "sortOrder": 17
+      "sortOrder": 18
     },
     {
       "id": "sop-1795112279099",
@@ -551,7 +551,7 @@
       "timeSlot": "13:30 น.",
       "startTime": "13:30",
       "frequency": "daily",
-      "sortOrder": 19
+      "sortOrder": 20
     },
     {
       "id": "sop-1795112314502",
@@ -562,7 +562,8 @@
       "timeSlot": "16:00 น.",
       "startTime": "16:00",
       "frequency": "daily",
-      "sortOrder": 20
+      "sortOrder": 0,
+      "isPinned": true
     },
     {
       "id": "sop-1795112839206",
@@ -573,7 +574,7 @@
       "timeSlot": "ระหว่างวันตอนที่ว่าง",
       "frequency": "daily",
       "targetDate": "2026-11-20",
-      "sortOrder": 18
+      "sortOrder": 19
     },
     {
       "id": "sop-1795112970578",
@@ -585,7 +586,7 @@
       "startTime": "15:00",
       "frequency": "daily",
       "sopNotes": "1ขวด แบ่งให้ใช้ได้3ครั้ง ใส่3ช่องของบ่อไดไขมัน\nทิ้งไว้ 15 นาที ค่อยเปิดน้ำทิ้ง\nหลังจากนั้นเอาน้ำฉีด น้ำที่ไปมาจากอ่างล้างแก้วลงท่อในห้องน้ำ",
-      "sortOrder": 1,
+      "sortOrder": 2,
       "isPinned": true
     }
   ],
@@ -676,7 +677,7 @@
           "startTime": "08:40",
           "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน",
           "frequency": "daily",
-          "sortOrder": 5
+          "sortOrder": 6
         },
         {
           "id": "sop-1795110756199",
@@ -688,7 +689,7 @@
           "startTime": "08:30",
           "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
           "frequency": "daily",
-          "sortOrder": 2,
+          "sortOrder": 3,
           "isPinned": true
         },
         {
@@ -700,7 +701,7 @@
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 6
+          "sortOrder": 7
         },
         {
           "id": "sop-1795110864356",
@@ -711,7 +712,7 @@
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 7
+          "sortOrder": 8
         },
         {
           "id": "sop-1795111431958",
@@ -723,7 +724,7 @@
           "startTime": "08:40",
           "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้น และใช้ไม้กวาดพลาสติก สำหรับกวาดบริเวณโซนในร้าน\nยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดเน้นบริเวณทางเดินและใต้โต๊ะกับใต้โซฟา",
           "frequency": "daily",
-          "sortOrder": 8
+          "sortOrder": 9
         },
         {
           "id": "sop-1795111486920",
@@ -735,7 +736,7 @@
           "startTime": "08:40",
           "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
           "frequency": "daily",
-          "sortOrder": 9
+          "sortOrder": 10
         },
         {
           "id": "sop-1795111561664",
@@ -747,7 +748,7 @@
           "startTime": "08:40",
           "sopNotes": "ใช้ไม้กวาดดอกหญ้า และใช้ผ้าขี้ริ้วสำหรับและใช้ผ้าขี้ริ้วสำหรับไว้ถูหน้าร้าน",
           "frequency": "daily",
-          "sortOrder": 10
+          "sortOrder": 11
         },
         {
           "id": "sop-1795111609276",
@@ -759,7 +760,7 @@
           "startTime": "08:30",
           "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
           "frequency": "daily",
-          "sortOrder": 3,
+          "sortOrder": 4,
           "isPinned": true
         },
         {
@@ -772,7 +773,7 @@
           "startTime": "08:30",
           "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
           "frequency": "daily",
-          "sortOrder": 4,
+          "sortOrder": 5,
           "isPinned": true
         },
         {
@@ -784,7 +785,7 @@
           "timeSlot": "08:45 น.",
           "startTime": "08:45",
           "frequency": "daily",
-          "sortOrder": 11
+          "sortOrder": 12
         },
         {
           "id": "sop-1795111876321",
@@ -795,7 +796,7 @@
           "timeSlot": "08:45 น.",
           "startTime": "08:45",
           "frequency": "daily",
-          "sortOrder": 12
+          "sortOrder": 13
         },
         {
           "id": "sop-1795111947851",
@@ -807,7 +808,7 @@
           "startTime": "08:45",
           "sopNotes": "เน้นบริเวณตัวเครื่องและตามซอกต่างๆรวมถึงใต้เครื่องและรอบๆเครื่อง",
           "frequency": "daily",
-          "sortOrder": 0,
+          "sortOrder": 1,
           "isPinned": true
         },
         {
@@ -819,7 +820,7 @@
           "timeSlot": "08:50 น.",
           "startTime": "08:50",
           "frequency": "daily",
-          "sortOrder": 14
+          "sortOrder": 15
         },
         {
           "id": "sop-1795112061326",
@@ -830,7 +831,7 @@
           "timeSlot": "08:50 น.",
           "startTime": "08:50",
           "frequency": "daily",
-          "sortOrder": 15
+          "sortOrder": 16
         },
         {
           "id": "sop-1795112103263",
@@ -841,7 +842,7 @@
           "timeSlot": "08:50 น.",
           "startTime": "08:50",
           "frequency": "daily",
-          "sortOrder": 16
+          "sortOrder": 17
         },
         {
           "id": "sop-1795112152627",
@@ -852,7 +853,7 @@
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 13
+          "sortOrder": 14
         },
         {
           "id": "sop-1795112207621",
@@ -864,7 +865,7 @@
           "startTime": "08:50",
           "sopNotes": "ขัดพื้นและโถส้วมและกำแพง",
           "frequency": "daily",
-          "sortOrder": 17
+          "sortOrder": 18
         },
         {
           "id": "sop-1795112279099",
@@ -875,7 +876,7 @@
           "timeSlot": "13:30 น.",
           "startTime": "13:30",
           "frequency": "daily",
-          "sortOrder": 19
+          "sortOrder": 20
         },
         {
           "id": "sop-1795112314502",
@@ -886,7 +887,8 @@
           "timeSlot": "16:00 น.",
           "startTime": "16:00",
           "frequency": "daily",
-          "sortOrder": 20
+          "sortOrder": 0,
+          "isPinned": true
         },
         {
           "id": "sop-1795112839206",
@@ -897,7 +899,7 @@
           "timeSlot": "ระหว่างวันตอนที่ว่าง",
           "frequency": "daily",
           "targetDate": "2026-11-20",
-          "sortOrder": 18
+          "sortOrder": 19
         },
         {
           "id": "sop-1795112970578",
@@ -909,11 +911,11 @@
           "startTime": "15:00",
           "sopNotes": "1ขวด แบ่งให้ใช้ได้3ครั้ง ใส่3ช่องของบ่อไดไขมัน\nทิ้งไว้ 15 นาที ค่อยเปิดน้ำทิ้ง\nหลังจากนั้นเอาน้ำฉีด น้ำที่ไปมาจากอ่างล้างแก้วลงท่อในห้องน้ำ",
           "frequency": "daily",
-          "sortOrder": 1,
+          "sortOrder": 2,
           "isPinned": true
         }
       ],
-      "updatedAt": "2026-11-19T18:30:28.877Z"
+      "updatedAt": "2026-11-19T18:30:50.742Z"
     }
   },
   "attendanceRecords": [],
