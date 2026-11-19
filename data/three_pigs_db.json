@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:15:55.078Z",
+  "updatedAt": "2026-11-19T18:16:50.745Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -414,6 +414,17 @@
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily"
+    },
+    {
+      "id": "sop-1795112207621",
+      "category": "ดูแลความสะอาด (Sanitation)",
+      "task": "ทำความสะอาดห้องน้ำ",
+      "completed": false,
+      "assignedTo": "ทุกคนในกะ",
+      "timeSlot": "08:50 น.",
+      "startTime": "08:50",
+      "frequency": "daily",
+      "sopNotes": "ขัดพื้นและโถส้วมและกำแพง"
     }
   ],
   "sopCategories": [
@@ -489,7 +500,7 @@
     },
     "2026-11-20": {
       "date": "2026-11-20",
-      "totalTasks": 16,
+      "totalTasks": 17,
       "completedTasks": 0,
       "isFullyCompleted": false,
       "items": [
@@ -676,9 +687,20 @@
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily"
+        },
+        {
+          "id": "sop-1795112207621",
+          "category": "ดูแลความสะอาด (Sanitation)",
+          "task": "ทำความสะอาดห้องน้ำ",
+          "completed": false,
+          "assignedTo": "ทุกคนในกะ",
+          "timeSlot": "08:50 น.",
+          "startTime": "08:50",
+          "sopNotes": "ขัดพื้นและโถส้วมและกำแพง",
+          "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-19T18:15:52.639Z"
+      "updatedAt": "2026-11-19T18:16:47.631Z"
     }
   },
   "attendanceRecords": [],
