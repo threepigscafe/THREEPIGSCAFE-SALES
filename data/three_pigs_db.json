@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:08:19.983Z",
+  "updatedAt": "2026-11-19T18:08:34.038Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -253,7 +253,7 @@
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
-      "sortOrder": 2,
+      "sortOrder": 0,
       "isPinned": true
     },
     {
@@ -324,7 +324,7 @@
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
-      "sortOrder": 1,
+      "sortOrder": 2,
       "isPinned": true
     },
     {
@@ -337,7 +337,7 @@
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
-      "sortOrder": 0,
+      "sortOrder": 1,
       "isPinned": true
     }
   ],
@@ -440,7 +440,7 @@
           "startTime": "08:30",
           "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
           "frequency": "daily",
-          "sortOrder": 2,
+          "sortOrder": 0,
           "isPinned": true
         },
         {
@@ -511,7 +511,7 @@
           "startTime": "08:30",
           "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
           "frequency": "daily",
-          "sortOrder": 1,
+          "sortOrder": 2,
           "isPinned": true
         },
         {
@@ -524,11 +524,11 @@
           "startTime": "08:30",
           "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
           "frequency": "daily",
-          "sortOrder": 0,
+          "sortOrder": 1,
           "isPinned": true
         }
       ],
-      "updatedAt": "2026-11-19T18:08:17.560Z"
+      "updatedAt": "2026-11-19T18:08:31.595Z"
     }
   },
   "attendanceRecords": [],
