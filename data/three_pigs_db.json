@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:20:16.240Z",
+  "updatedAt": "2026-11-19T18:20:26.756Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -198,6 +198,78 @@
       "baristaId": "b-1793616835086",
       "shiftType": "off",
       "shiftHours": "หยุดประจำสัปดาห์",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1795082300305-จันทร์-1795112416084",
+      "date": "2026-11-20",
+      "dayName": "จันทร์",
+      "baristaId": "b-1795082300305",
+      "shiftType": "off",
+      "shiftHours": "หยุดประจำสัปดาห์",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1795082300305-อังคาร-1795112417239",
+      "date": "2026-11-20",
+      "dayName": "อังคาร",
+      "baristaId": "b-1795082300305",
+      "shiftType": "off",
+      "shiftHours": "หยุดประจำสัปดาห์",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1795082300305-พุธ-1795112418605",
+      "date": "2026-11-20",
+      "dayName": "พุธ",
+      "baristaId": "b-1795082300305",
+      "shiftType": "off",
+      "shiftHours": "หยุดประจำสัปดาห์",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1795082300305-พฤหัสบดี-1795112419809",
+      "date": "2026-11-20",
+      "dayName": "พฤหัสบดี",
+      "baristaId": "b-1795082300305",
+      "shiftType": "off",
+      "shiftHours": "หยุดประจำสัปดาห์",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1793616835086-จันทร์-1795112420988",
+      "date": "2026-11-20",
+      "dayName": "จันทร์",
+      "baristaId": "b-1793616835086",
+      "shiftType": "full",
+      "shiftHours": "08:30 - 18:30 น.",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1793616835086-อังคาร-1795112422141",
+      "date": "2026-11-20",
+      "dayName": "อังคาร",
+      "baristaId": "b-1793616835086",
+      "shiftType": "full",
+      "shiftHours": "08:30 - 18:30 น.",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1793616835086-พุธ-1795112423239",
+      "date": "2026-11-20",
+      "dayName": "พุธ",
+      "baristaId": "b-1793616835086",
+      "shiftType": "full",
+      "shiftHours": "08:30 - 18:30 น.",
+      "leadDuty": "ชงกาแฟ"
+    },
+    {
+      "id": "sh-b-1793616835086-พฤหัสบดี-1795112424405",
+      "date": "2026-11-20",
+      "dayName": "พฤหัสบดี",
+      "baristaId": "b-1793616835086",
+      "shiftType": "full",
+      "shiftHours": "08:30 - 18:30 น.",
       "leadDuty": "ชงกาแฟ"
     }
   ],
