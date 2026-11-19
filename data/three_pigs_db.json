@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:18:36.942Z",
+  "updatedAt": "2026-11-19T18:19:12.823Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -174,28 +174,6 @@
   ],
   "shifts": [],
   "shiftTypes": [
-    {
-      "id": "morning",
-      "label": "กะเช้า (Morning Opening)",
-      "shortLabel": "กะเช้า",
-      "time": "07:30 - 15:30 น.",
-      "hours": 8,
-      "description": "Calibrate ช็อต 18.5g, ต้มชา, เช็คสต็อก, รองรับลูกค้าเช้าและ Grab",
-      "icon": "☀️",
-      "colorTheme": "amber",
-      "isOffType": false
-    },
-    {
-      "id": "afternoon",
-      "label": "กะบ่าย (Afternoon Closing)",
-      "shortLabel": "กะบ่าย",
-      "time": "10:30 - 18:30 น.",
-      "hours": 8,
-      "description": "รองรับพีคเที่ยง, เติมเบเกอรี่, Backflush ล้างหัวชง และนับเงินปิดรอบ",
-      "icon": "🌤️",
-      "colorTheme": "blue",
-      "isOffType": false
-    },
     {
       "id": "full",
       "label": "กะเต็มวัน (Weekend Peak)",
