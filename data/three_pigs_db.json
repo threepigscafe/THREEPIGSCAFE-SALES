@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:06:05.722Z",
+  "updatedAt": "2026-11-19T18:06:51.699Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -305,6 +305,17 @@
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้ไม้กวาดดอกหญ้า และใช้ผ้าขี้ริ้วสำหรับและใช้ผ้าขี้ริ้วสำหรับไว้ถูหน้าร้าน"
+    },
+    {
+      "id": "sop-1795111609276",
+      "category": "เปิดร้าน (Opening)",
+      "task": "จัดเตรียมอุปกรณ์สำหรับจัดเตรียมอุปกรณ์สำหรับการขายให้เรียบร้อย",
+      "completed": false,
+      "assignedTo": "ทุกคนในกะ",
+      "timeSlot": "08:30 น.",
+      "startTime": "08:30",
+      "frequency": "daily",
+      "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ"
     }
   ],
   "sopCategories": [
@@ -380,7 +391,7 @@
     },
     "2026-11-20": {
       "date": "2026-11-20",
-      "totalTasks": 7,
+      "totalTasks": 8,
       "completedTasks": 0,
       "isFullyCompleted": false,
       "items": [
@@ -458,9 +469,20 @@
           "startTime": "08:40",
           "sopNotes": "ใช้ไม้กวาดดอกหญ้า และใช้ผ้าขี้ริ้วสำหรับและใช้ผ้าขี้ริ้วสำหรับไว้ถูหน้าร้าน",
           "frequency": "daily"
+        },
+        {
+          "id": "sop-1795111609276",
+          "category": "เปิดร้าน (Opening)",
+          "task": "จัดเตรียมอุปกรณ์สำหรับจัดเตรียมอุปกรณ์สำหรับการขายให้เรียบร้อย",
+          "completed": false,
+          "assignedTo": "ทุกคนในกะ",
+          "timeSlot": "08:30 น.",
+          "startTime": "08:30",
+          "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
+          "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-19T18:06:01.673Z"
+      "updatedAt": "2026-11-19T18:06:49.286Z"
     }
   },
   "attendanceRecords": [],
