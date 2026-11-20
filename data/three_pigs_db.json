@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T16:03:37.719Z",
+  "updatedAt": "2026-11-20T16:04:46.069Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -634,11 +634,11 @@
     {
       "id": "sop-1795190591997",
       "category": "ดูแลความสะอาด (Sanitation)",
-      "task": "กวาด-ถูพื้น เช็ดโต๊ะ เก้าอี้ วัสดุตกแต่ง ปัดฝุ่น",
+      "task": "ทำความสะอาดห้องน้ำ",
       "completed": false,
       "assignedTo": "ทุกคนในกะ",
-      "timeSlot": "10:30 น.",
-      "startTime": "10:30",
+      "timeSlot": "08:30 น.",
+      "startTime": "08:30",
       "frequency": "daily"
     }
   ],
@@ -1011,15 +1011,15 @@
         {
           "id": "sop-1795190591997",
           "category": "ดูแลความสะอาด (Sanitation)",
-          "task": "กวาด-ถูพื้น เช็ดโต๊ะ เก้าอี้ วัสดุตกแต่ง ปัดฝุ่น",
+          "task": "ทำความสะอาดห้องน้ำ",
           "completed": false,
           "assignedTo": "ทุกคนในกะ",
-          "timeSlot": "10:30 น.",
-          "startTime": "10:30",
+          "timeSlot": "08:30 น.",
+          "startTime": "08:30",
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-20T16:03:12.014Z"
+      "updatedAt": "2026-11-20T16:04:41.988Z"
     },
     "2026-11-21": {
       "date": "2026-11-21",
@@ -1266,15 +1266,15 @@
         {
           "id": "sop-1795190591997",
           "category": "ดูแลความสะอาด (Sanitation)",
-          "task": "กวาด-ถูพื้น เช็ดโต๊ะ เก้าอี้ วัสดุตกแต่ง ปัดฝุ่น",
+          "task": "ทำความสะอาดห้องน้ำ",
           "completed": false,
           "assignedTo": "ทุกคนในกะ",
-          "timeSlot": "10:30 น.",
-          "startTime": "10:30",
+          "timeSlot": "08:30 น.",
+          "startTime": "08:30",
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-20T16:03:34.284Z"
+      "updatedAt": "2026-11-20T16:04:41.977Z"
     }
   },
   "attendanceRecords": [
