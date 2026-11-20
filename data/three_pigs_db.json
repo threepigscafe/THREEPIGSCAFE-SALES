@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T02:28:54.115Z",
+  "updatedAt": "2026-11-20T02:30:42.893Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -415,13 +415,15 @@
       "id": "sop-1795111486920",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "กวาดและถูบริเวณหลังร้านหน้าห้องน้ำกวาดและถูบริเวณหลังร้านหน้าห้องน้ำจนถึงบันได",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
-      "sortOrder": 10
+      "sortOrder": 10,
+      "completedAt": "09:09 น.",
+      "completedBy": "ohm"
     },
     {
       "id": "sop-1795111561664",
@@ -544,8 +546,8 @@
       "startTime": "08:50",
       "frequency": "daily",
       "sortOrder": 17,
-      "completedAt": "09:28 น.",
-      "completedBy": "Mint"
+      "completedAt": "09:06 น.",
+      "completedBy": "ohm"
     },
     {
       "id": "sop-1795112152627",
@@ -696,7 +698,7 @@
     "2026-11-20": {
       "date": "2026-11-20",
       "totalTasks": 21,
-      "completedTasks": 16,
+      "completedTasks": 17,
       "isFullyCompleted": false,
       "items": [
         {
@@ -772,13 +774,15 @@
           "id": "sop-1795111486920",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "กวาดและถูบริเวณหลังร้านหน้าห้องน้ำกวาดและถูบริเวณหลังร้านหน้าห้องน้ำจนถึงบันได",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
           "frequency": "daily",
-          "sortOrder": 10
+          "sortOrder": 10,
+          "completedAt": "09:09 น.",
+          "completedBy": "ohm"
         },
         {
           "id": "sop-1795111561664",
@@ -901,8 +905,8 @@
           "startTime": "08:50",
           "frequency": "daily",
           "sortOrder": 17,
-          "completedAt": "09:28 น.",
-          "completedBy": "Mint"
+          "completedAt": "09:06 น.",
+          "completedBy": "ohm"
         },
         {
           "id": "sop-1795112152627",
@@ -979,7 +983,7 @@
           "isPinned": true
         }
       ],
-      "updatedAt": "2026-11-20T02:28:45.155Z"
+      "updatedAt": "2026-11-20T02:09:31.581Z"
     }
   },
   "attendanceRecords": [
