@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T16:00:18.496Z",
+  "updatedAt": "2026-11-20T16:00:27.357Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -1021,19 +1021,6 @@
           "isPinned": true
         },
         {
-          "id": "sop-1795112970578",
-          "category": "ดูแลความสะอาด (Sanitation)",
-          "task": "ใส่น้ำยาจูลินทรีย์ที่บ่อดักไขมัน",
-          "completed": false,
-          "assignedTo": "ทุกคนในกะ",
-          "timeSlot": "15:00 น.",
-          "startTime": "15:00",
-          "sopNotes": "1ขวด แบ่งให้ใช้ได้3ครั้ง ใส่3ช่องของบ่อไดไขมัน\nทิ้งไว้ 15 นาที ค่อยเปิดน้ำทิ้ง\nหลังจากนั้นเอาน้ำฉีด น้ำที่ไปมาจากอ่างล้างแก้วลงท่อในห้องน้ำ",
-          "frequency": "daily",
-          "sortOrder": 1,
-          "isPinned": true
-        },
-        {
           "id": "sop-1795110756199",
           "category": "เปิดร้าน (Opening)",
           "task": "เปิดเครื่องชงกาแฟ พร้อมขายก่อน 09.00",
@@ -1043,7 +1030,7 @@
           "startTime": "08:30",
           "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
           "frequency": "daily",
-          "sortOrder": 2,
+          "sortOrder": 1,
           "isPinned": true
         },
         {
@@ -1056,7 +1043,7 @@
           "startTime": "08:30",
           "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
           "frequency": "daily",
-          "sortOrder": 3,
+          "sortOrder": 2,
           "isPinned": true
         },
         {
@@ -1069,7 +1056,7 @@
           "startTime": "08:30",
           "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
           "frequency": "daily",
-          "sortOrder": 4,
+          "sortOrder": 3,
           "isPinned": true
         },
         {
@@ -1080,6 +1067,19 @@
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "16:00 น.",
           "startTime": "16:00",
+          "frequency": "daily",
+          "sortOrder": 4,
+          "isPinned": true
+        },
+        {
+          "id": "sop-1795112970578",
+          "category": "ดูแลความสะอาด (Sanitation)",
+          "task": "ใส่น้ำยาจูลินทรีย์ที่บ่อดักไขมัน",
+          "completed": false,
+          "assignedTo": "ทุกคนในกะ",
+          "timeSlot": "15:00 น.",
+          "startTime": "15:00",
+          "sopNotes": "1ขวด แบ่งให้ใช้ได้3ครั้ง ใส่3ช่องของบ่อไดไขมัน\nทิ้งไว้ 15 นาที ค่อยเปิดน้ำทิ้ง\nหลังจากนั้นเอาน้ำฉีด น้ำที่ไปมาจากอ่างล้างแก้วลงท่อในห้องน้ำ",
           "frequency": "daily",
           "sortOrder": 5,
           "isPinned": true
@@ -1244,7 +1244,7 @@
           "sortOrder": 19
         }
       ],
-      "updatedAt": "2026-11-20T16:00:14.657Z"
+      "updatedAt": "2026-11-20T16:00:23.772Z"
     }
   },
   "attendanceRecords": [
