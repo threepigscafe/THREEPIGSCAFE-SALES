@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T01:48:43.922Z",
+  "updatedAt": "2026-11-20T01:48:52.948Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -373,23 +373,27 @@
       "id": "sop-1795110805849",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดกระจกบานหน้าร้าน",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 7
+      "sortOrder": 7,
+      "completedAt": "08:48 น.",
+      "completedBy": "Mint"
     },
     {
       "id": "sop-1795110864356",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดกระจกหลังร้าน (ทางไปห้องน้ำ)",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 8
+      "sortOrder": 8,
+      "completedAt": "08:48 น.",
+      "completedBy": "Mint"
     },
     {
       "id": "sop-1795111431958",
@@ -672,7 +676,7 @@
     "2026-11-20": {
       "date": "2026-11-20",
       "totalTasks": 21,
-      "completedTasks": 4,
+      "completedTasks": 6,
       "isFullyCompleted": false,
       "items": [
         {
@@ -706,23 +710,27 @@
           "id": "sop-1795110805849",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดกระจกบานหน้าร้าน",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 7
+          "sortOrder": 7,
+          "completedAt": "08:48 น.",
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795110864356",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดกระจกหลังร้าน (ทางไปห้องน้ำ)",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 8
+          "sortOrder": 8,
+          "completedAt": "08:48 น.",
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111431958",
@@ -931,7 +939,7 @@
           "isPinned": true
         }
       ],
-      "updatedAt": "2026-11-20T01:51:09.299Z"
+      "updatedAt": "2026-11-20T01:48:51.064Z"
     }
   },
   "attendanceRecords": [
