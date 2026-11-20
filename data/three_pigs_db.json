@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T01:56:33.439Z",
+  "updatedAt": "2026-11-20T01:57:21.090Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -558,13 +558,15 @@
       "id": "sop-1795112207621",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ทำความสะอาดห้องน้ำ",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:50 น.",
       "startTime": "08:50",
       "frequency": "daily",
       "sopNotes": "ขัดพื้นและโถส้วมและกำแพง",
-      "sortOrder": 18
+      "sortOrder": 18,
+      "completedAt": "08:57 น.",
+      "completedBy": "Mint"
     },
     {
       "id": "sop-1795112279099",
@@ -688,7 +690,7 @@
     "2026-11-20": {
       "date": "2026-11-20",
       "totalTasks": 21,
-      "completedTasks": 12,
+      "completedTasks": 13,
       "isFullyCompleted": false,
       "items": [
         {
@@ -907,13 +909,15 @@
           "id": "sop-1795112207621",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดห้องน้ำ",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:50 น.",
           "startTime": "08:50",
           "sopNotes": "ขัดพื้นและโถส้วมและกำแพง",
           "frequency": "daily",
-          "sortOrder": 18
+          "sortOrder": 18,
+          "completedAt": "08:57 น.",
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795112279099",
@@ -963,7 +967,7 @@
           "isPinned": true
         }
       ],
-      "updatedAt": "2026-11-20T01:56:28.852Z"
+      "updatedAt": "2026-11-20T01:57:16.296Z"
     }
   },
   "attendanceRecords": [
