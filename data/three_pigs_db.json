@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T02:28:42.920Z",
+  "updatedAt": "2026-11-20T02:28:48.326Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -415,15 +415,13 @@
       "id": "sop-1795111486920",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "กวาดและถูบริเวณหลังร้านหน้าห้องน้ำกวาดและถูบริเวณหลังร้านหน้าห้องน้ำจนถึงบันได",
-      "completed": true,
+      "completed": false,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
-      "sortOrder": 10,
-      "completedAt": "09:28 น.",
-      "completedBy": "Mint"
+      "sortOrder": 10
     },
     {
       "id": "sop-1795111561664",
@@ -540,12 +538,14 @@
       "id": "sop-1795112103263",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ตรวจเช็กความสะอาดชั้นวางแก้วที่ล้างแล้วและจัดเรียงให้เป็นระเบียบเรียบร้อย",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:50 น.",
       "startTime": "08:50",
       "frequency": "daily",
-      "sortOrder": 17
+      "sortOrder": 17,
+      "completedAt": "09:28 น.",
+      "completedBy": "Mint"
     },
     {
       "id": "sop-1795112152627",
@@ -772,15 +772,13 @@
           "id": "sop-1795111486920",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "กวาดและถูบริเวณหลังร้านหน้าห้องน้ำกวาดและถูบริเวณหลังร้านหน้าห้องน้ำจนถึงบันได",
-          "completed": true,
+          "completed": false,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
           "frequency": "daily",
-          "sortOrder": 10,
-          "completedAt": "09:28 น.",
-          "completedBy": "Mint"
+          "sortOrder": 10
         },
         {
           "id": "sop-1795111561664",
@@ -897,12 +895,14 @@
           "id": "sop-1795112103263",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ตรวจเช็กความสะอาดชั้นวางแก้วที่ล้างแล้วและจัดเรียงให้เป็นระเบียบเรียบร้อย",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:50 น.",
           "startTime": "08:50",
           "frequency": "daily",
-          "sortOrder": 17
+          "sortOrder": 17,
+          "completedAt": "09:28 น.",
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795112152627",
@@ -979,7 +979,7 @@
           "isPinned": true
         }
       ],
-      "updatedAt": "2026-11-20T02:28:38.583Z"
+      "updatedAt": "2026-11-20T02:28:45.155Z"
     }
   },
   "attendanceRecords": [
