@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T02:01:31.717Z",
+  "updatedAt": "2026-11-20T02:01:48.053Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -346,13 +346,15 @@
       "id": "sop-1795110668398",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดทำความสะอาดโต๊ะ เก้าอี้",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน",
-      "sortOrder": 6
+      "sortOrder": 6,
+      "completedAt": "09:04 น.",
+      "completedBy": "ohm"
     },
     {
       "id": "sop-1795110756199",
@@ -692,20 +694,22 @@
     "2026-11-20": {
       "date": "2026-11-20",
       "totalTasks": 21,
-      "completedTasks": 14,
+      "completedTasks": 15,
       "isFullyCompleted": false,
       "items": [
         {
           "id": "sop-1795110668398",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดทำความสะอาดโต๊ะ เก้าอี้",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน",
           "frequency": "daily",
-          "sortOrder": 6
+          "sortOrder": 6,
+          "completedAt": "09:04 น.",
+          "completedBy": "ohm"
         },
         {
           "id": "sop-1795110756199",
@@ -971,7 +975,7 @@
           "isPinned": true
         }
       ],
-      "updatedAt": "2026-11-20T02:03:56.886Z"
+      "updatedAt": "2026-11-20T02:04:13.446Z"
     }
   },
   "attendanceRecords": [
