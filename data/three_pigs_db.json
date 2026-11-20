@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T16:00:34.458Z",
+  "updatedAt": "2026-11-20T16:03:16.017Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -630,6 +630,16 @@
       "isPinned": true,
       "completedAt": "18:34 น.",
       "completedBy": "ohm"
+    },
+    {
+      "id": "sop-1795190591997",
+      "category": "ดูแลความสะอาด (Sanitation)",
+      "task": "กวาด-ถูพื้น เช็ดโต๊ะ เก้าอี้ วัสดุตกแต่ง ปัดฝุ่น",
+      "completed": false,
+      "assignedTo": "ทุกคนในกะ",
+      "timeSlot": "10:30 น.",
+      "startTime": "10:30",
+      "frequency": "daily"
     }
   ],
   "sopCategories": [
@@ -705,9 +715,9 @@
     },
     "2026-11-20": {
       "date": "2026-11-20",
-      "totalTasks": 21,
+      "totalTasks": 22,
       "completedTasks": 21,
-      "isFullyCompleted": true,
+      "isFullyCompleted": false,
       "items": [
         {
           "id": "sop-1795110668398",
@@ -997,28 +1007,37 @@
           "isPinned": true,
           "completedAt": "18:34 น.",
           "completedBy": "ohm"
+        },
+        {
+          "id": "sop-1795190591997",
+          "category": "ดูแลความสะอาด (Sanitation)",
+          "task": "กวาด-ถูพื้น เช็ดโต๊ะ เก้าอี้ วัสดุตกแต่ง ปัดฝุ่น",
+          "completed": false,
+          "assignedTo": "ทุกคนในกะ",
+          "timeSlot": "10:30 น.",
+          "startTime": "10:30",
+          "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-20T11:34:32.649Z"
+      "updatedAt": "2026-11-20T16:03:12.014Z"
     },
     "2026-11-21": {
       "date": "2026-11-21",
-      "totalTasks": 20,
+      "totalTasks": 21,
       "completedTasks": 0,
       "isFullyCompleted": false,
       "items": [
         {
-          "id": "sop-1795111947851",
+          "id": "sop-1795110668398",
           "category": "ดูแลความสะอาด (Sanitation)",
-          "task": "ทำความสะอาดเครื่องกาแฟเครื่องบดกาแฟ",
+          "task": "เช็ดทำความสะอาดโต๊ะ เก้าอี้",
           "completed": false,
           "assignedTo": "ทุกคนในกะ",
-          "timeSlot": "08:45 น.",
-          "startTime": "08:45",
-          "sopNotes": "เน้นบริเวณตัวเครื่องและตามซอกต่างๆรวมถึงใต้เครื่องและรอบๆเครื่อง",
+          "timeSlot": "08:40 น.",
+          "startTime": "08:40",
+          "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน",
           "frequency": "daily",
-          "sortOrder": 0,
-          "isPinned": true
+          "sortOrder": 6
         },
         {
           "id": "sop-1795110756199",
@@ -1032,69 +1051,6 @@
           "frequency": "daily",
           "sortOrder": 1,
           "isPinned": true
-        },
-        {
-          "id": "sop-1795111609276",
-          "category": "เปิดร้าน (Opening)",
-          "task": "จัดเตรียมอุปกรณ์สำหรับจัดเตรียมอุปกรณ์สำหรับการขายให้เรียบร้อย",
-          "completed": false,
-          "assignedTo": "ทุกคนในกะ",
-          "timeSlot": "08:30 น.",
-          "startTime": "08:30",
-          "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
-          "frequency": "daily",
-          "sortOrder": 2,
-          "isPinned": true
-        },
-        {
-          "id": "sop-1795111691106",
-          "category": "บริการ & เตรียมสต็อก (Service & Stock)",
-          "task": "เช็กสต๊อก",
-          "completed": false,
-          "assignedTo": "ทุกคนในกะ",
-          "timeSlot": "08:30 น.",
-          "startTime": "08:30",
-          "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
-          "frequency": "daily",
-          "sortOrder": 3,
-          "isPinned": true
-        },
-        {
-          "id": "sop-1795112970578",
-          "category": "ดูแลความสะอาด (Sanitation)",
-          "task": "ใส่น้ำยาจูลินทรีย์ที่บ่อดักไขมัน",
-          "completed": false,
-          "assignedTo": "ทุกคนในกะ",
-          "timeSlot": "15:00 น.",
-          "startTime": "15:00",
-          "sopNotes": "1ขวด แบ่งให้ใช้ได้3ครั้ง ใส่3ช่องของบ่อไดไขมัน\nทิ้งไว้ 15 นาที ค่อยเปิดน้ำทิ้ง\nหลังจากนั้นเอาน้ำฉีด น้ำที่ไปมาจากอ่างล้างแก้วลงท่อในห้องน้ำ",
-          "frequency": "daily",
-          "sortOrder": 4,
-          "isPinned": true
-        },
-        {
-          "id": "sop-1795112314502",
-          "category": "ดูแลความสะอาด (Sanitation)",
-          "task": "ทำความสะอาดและเตรียมอุปกรณ์เตรียมวัตถุดิบสำหรับขายตอนเย็น",
-          "completed": false,
-          "assignedTo": "ทุกคนในกะ",
-          "timeSlot": "16:00 น.",
-          "startTime": "16:00",
-          "frequency": "daily",
-          "sortOrder": 5,
-          "isPinned": true
-        },
-        {
-          "id": "sop-1795110668398",
-          "category": "ดูแลความสะอาด (Sanitation)",
-          "task": "เช็ดทำความสะอาดโต๊ะ เก้าอี้",
-          "completed": false,
-          "assignedTo": "ทุกคนในกะ",
-          "timeSlot": "08:40 น.",
-          "startTime": "08:40",
-          "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน",
-          "frequency": "daily",
-          "sortOrder": 6
         },
         {
           "id": "sop-1795110805849",
@@ -1155,6 +1111,32 @@
           "sortOrder": 11
         },
         {
+          "id": "sop-1795111609276",
+          "category": "เปิดร้าน (Opening)",
+          "task": "จัดเตรียมอุปกรณ์สำหรับจัดเตรียมอุปกรณ์สำหรับการขายให้เรียบร้อย",
+          "completed": false,
+          "assignedTo": "ทุกคนในกะ",
+          "timeSlot": "08:30 น.",
+          "startTime": "08:30",
+          "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
+          "frequency": "daily",
+          "sortOrder": 2,
+          "isPinned": true
+        },
+        {
+          "id": "sop-1795111691106",
+          "category": "บริการ & เตรียมสต็อก (Service & Stock)",
+          "task": "เช็กสต๊อก",
+          "completed": false,
+          "assignedTo": "ทุกคนในกะ",
+          "timeSlot": "08:30 น.",
+          "startTime": "08:30",
+          "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
+          "frequency": "daily",
+          "sortOrder": 3,
+          "isPinned": true
+        },
+        {
           "id": "sop-1795111804593",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดทำความสะอาดโต๊ะเคาน์เตอร์บาร์",
@@ -1177,15 +1159,17 @@
           "sortOrder": 13
         },
         {
-          "id": "sop-1795112152627",
+          "id": "sop-1795111947851",
           "category": "ดูแลความสะอาด (Sanitation)",
-          "task": "จัดเตรียมถุงดำจัดเตรียมถุงดำในถังขยะและที่ทิ้งกากกาแฟ",
+          "task": "ทำความสะอาดเครื่องกาแฟเครื่องบดกาแฟ",
           "completed": false,
           "assignedTo": "ทุกคนในกะ",
-          "timeSlot": "08:40 น.",
-          "startTime": "08:40",
+          "timeSlot": "08:45 น.",
+          "startTime": "08:45",
+          "sopNotes": "เน้นบริเวณตัวเครื่องและตามซอกต่างๆรวมถึงใต้เครื่องและรอบๆเครื่อง",
           "frequency": "daily",
-          "sortOrder": 14
+          "sortOrder": 0,
+          "isPinned": true
         },
         {
           "id": "sop-1795112026410",
@@ -1221,6 +1205,17 @@
           "sortOrder": 17
         },
         {
+          "id": "sop-1795112152627",
+          "category": "ดูแลความสะอาด (Sanitation)",
+          "task": "จัดเตรียมถุงดำจัดเตรียมถุงดำในถังขยะและที่ทิ้งกากกาแฟ",
+          "completed": false,
+          "assignedTo": "ทุกคนในกะ",
+          "timeSlot": "08:40 น.",
+          "startTime": "08:40",
+          "frequency": "daily",
+          "sortOrder": 14
+        },
+        {
           "id": "sop-1795112207621",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดห้องน้ำ",
@@ -1242,9 +1237,44 @@
           "startTime": "13:30",
           "frequency": "daily",
           "sortOrder": 19
+        },
+        {
+          "id": "sop-1795112314502",
+          "category": "ดูแลความสะอาด (Sanitation)",
+          "task": "ทำความสะอาดและเตรียมอุปกรณ์เตรียมวัตถุดิบสำหรับขายตอนเย็น",
+          "completed": false,
+          "assignedTo": "ทุกคนในกะ",
+          "timeSlot": "16:00 น.",
+          "startTime": "16:00",
+          "frequency": "daily",
+          "sortOrder": 5,
+          "isPinned": true
+        },
+        {
+          "id": "sop-1795112970578",
+          "category": "ดูแลความสะอาด (Sanitation)",
+          "task": "ใส่น้ำยาจูลินทรีย์ที่บ่อดักไขมัน",
+          "completed": false,
+          "assignedTo": "ทุกคนในกะ",
+          "timeSlot": "15:00 น.",
+          "startTime": "15:00",
+          "sopNotes": "1ขวด แบ่งให้ใช้ได้3ครั้ง ใส่3ช่องของบ่อไดไขมัน\nทิ้งไว้ 15 นาที ค่อยเปิดน้ำทิ้ง\nหลังจากนั้นเอาน้ำฉีด น้ำที่ไปมาจากอ่างล้างแก้วลงท่อในห้องน้ำ",
+          "frequency": "daily",
+          "sortOrder": 4,
+          "isPinned": true
+        },
+        {
+          "id": "sop-1795190591997",
+          "category": "ดูแลความสะอาด (Sanitation)",
+          "task": "กวาด-ถูพื้น เช็ดโต๊ะ เก้าอี้ วัสดุตกแต่ง ปัดฝุ่น",
+          "completed": false,
+          "assignedTo": "ทุกคนในกะ",
+          "timeSlot": "10:30 น.",
+          "startTime": "10:30",
+          "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-20T16:00:30.887Z"
+      "updatedAt": "2026-11-20T16:03:11.999Z"
     }
   },
   "attendanceRecords": [
