@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T02:30:42.893Z",
+  "updatedAt": "2026-11-20T02:30:56.755Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -422,7 +422,7 @@
       "frequency": "daily",
       "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
       "sortOrder": 10,
-      "completedAt": "09:09 น.",
+      "completedAt": "09:33 น.",
       "completedBy": "ohm"
     },
     {
@@ -546,8 +546,8 @@
       "startTime": "08:50",
       "frequency": "daily",
       "sortOrder": 17,
-      "completedAt": "09:06 น.",
-      "completedBy": "ohm"
+      "completedAt": "09:28 น.",
+      "completedBy": "Mint"
     },
     {
       "id": "sop-1795112152627",
@@ -781,7 +781,7 @@
           "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
           "frequency": "daily",
           "sortOrder": 10,
-          "completedAt": "09:09 น.",
+          "completedAt": "09:33 น.",
           "completedBy": "ohm"
         },
         {
@@ -905,8 +905,8 @@
           "startTime": "08:50",
           "frequency": "daily",
           "sortOrder": 17,
-          "completedAt": "09:06 น.",
-          "completedBy": "ohm"
+          "completedAt": "09:28 น.",
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795112152627",
@@ -983,7 +983,7 @@
           "isPinned": true
         }
       ],
-      "updatedAt": "2026-11-20T02:09:31.581Z"
+      "updatedAt": "2026-11-20T02:33:05.365Z"
     }
   },
   "attendanceRecords": [
