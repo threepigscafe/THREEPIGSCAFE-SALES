@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T01:49:15.879Z",
+  "updatedAt": "2026-11-20T01:49:32.377Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -541,8 +541,8 @@
       "startTime": "08:40",
       "frequency": "daily",
       "sortOrder": 14,
-      "completedAt": "08:49 น.",
-      "completedBy": "Mint"
+      "completedAt": "08:51 น.",
+      "completedBy": "ohm"
     },
     {
       "id": "sop-1795112207621",
@@ -880,8 +880,8 @@
           "startTime": "08:40",
           "frequency": "daily",
           "sortOrder": 14,
-          "completedAt": "08:49 น.",
-          "completedBy": "Mint"
+          "completedAt": "08:51 น.",
+          "completedBy": "ohm"
         },
         {
           "id": "sop-1795112207621",
@@ -943,7 +943,7 @@
           "isPinned": true
         }
       ],
-      "updatedAt": "2026-11-20T01:49:12.317Z"
+      "updatedAt": "2026-11-20T01:51:59.950Z"
     }
   },
   "attendanceRecords": [
