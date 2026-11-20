@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T16:00:27.357Z",
+  "updatedAt": "2026-11-20T16:00:34.458Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -1060,18 +1060,6 @@
           "isPinned": true
         },
         {
-          "id": "sop-1795112314502",
-          "category": "ดูแลความสะอาด (Sanitation)",
-          "task": "ทำความสะอาดและเตรียมอุปกรณ์เตรียมวัตถุดิบสำหรับขายตอนเย็น",
-          "completed": false,
-          "assignedTo": "ทุกคนในกะ",
-          "timeSlot": "16:00 น.",
-          "startTime": "16:00",
-          "frequency": "daily",
-          "sortOrder": 4,
-          "isPinned": true
-        },
-        {
           "id": "sop-1795112970578",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ใส่น้ำยาจูลินทรีย์ที่บ่อดักไขมัน",
@@ -1080,6 +1068,18 @@
           "timeSlot": "15:00 น.",
           "startTime": "15:00",
           "sopNotes": "1ขวด แบ่งให้ใช้ได้3ครั้ง ใส่3ช่องของบ่อไดไขมัน\nทิ้งไว้ 15 นาที ค่อยเปิดน้ำทิ้ง\nหลังจากนั้นเอาน้ำฉีด น้ำที่ไปมาจากอ่างล้างแก้วลงท่อในห้องน้ำ",
+          "frequency": "daily",
+          "sortOrder": 4,
+          "isPinned": true
+        },
+        {
+          "id": "sop-1795112314502",
+          "category": "ดูแลความสะอาด (Sanitation)",
+          "task": "ทำความสะอาดและเตรียมอุปกรณ์เตรียมวัตถุดิบสำหรับขายตอนเย็น",
+          "completed": false,
+          "assignedTo": "ทุกคนในกะ",
+          "timeSlot": "16:00 น.",
+          "startTime": "16:00",
           "frequency": "daily",
           "sortOrder": 5,
           "isPinned": true
@@ -1244,7 +1244,7 @@
           "sortOrder": 19
         }
       ],
-      "updatedAt": "2026-11-20T16:00:23.772Z"
+      "updatedAt": "2026-11-20T16:00:30.887Z"
     }
   },
   "attendanceRecords": [
