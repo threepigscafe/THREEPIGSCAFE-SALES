@@ -1,8 +1,7 @@
 {
-  "updatedAt": "2026-11-21T11:56:49.988Z",
+  "updatedAt": "2026-11-21T11:57:31.895Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
-  "sopActiveDate": "2026-11-21",
   "dailyMotivationalNote": {
     "emoji": "💖",
     "title": "ข้อความประจำวัน (Daily Inspiration)",
@@ -1063,8 +1062,7 @@
           "frequency": "daily",
           "sortOrder": 6,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795110756199",
@@ -1079,8 +1077,7 @@
           "sortOrder": 3,
           "isPinned": true,
           "completedAt": "09:48 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795110805849",
@@ -1093,8 +1090,7 @@
           "frequency": "daily",
           "sortOrder": 7,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795110864356",
@@ -1107,8 +1103,7 @@
           "frequency": "daily",
           "sortOrder": 8,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111431958",
@@ -1122,8 +1117,7 @@
           "frequency": "daily",
           "sortOrder": 9,
           "completedAt": "09:52 น.",
-          "completedBy": "ohm",
-          "completedDate": "2026-11-21"
+          "completedBy": "ohm"
         },
         {
           "id": "sop-1795111486920",
@@ -1137,8 +1131,7 @@
           "frequency": "daily",
           "sortOrder": 10,
           "completedAt": "09:52 น.",
-          "completedBy": "ohm",
-          "completedDate": "2026-11-21"
+          "completedBy": "ohm"
         },
         {
           "id": "sop-1795111561664",
@@ -1152,8 +1145,7 @@
           "frequency": "daily",
           "sortOrder": 11,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111609276",
@@ -1168,8 +1160,7 @@
           "sortOrder": 4,
           "isPinned": true,
           "completedAt": "09:08 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111691106",
@@ -1184,8 +1175,7 @@
           "sortOrder": 5,
           "isPinned": true,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111804593",
@@ -1198,8 +1188,7 @@
           "frequency": "daily",
           "sortOrder": 12,
           "completedAt": "09:47 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111876321",
@@ -1212,8 +1201,7 @@
           "frequency": "daily",
           "sortOrder": 13,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111947851",
@@ -1228,8 +1216,7 @@
           "sortOrder": 0,
           "isPinned": true,
           "completedAt": "09:48 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795112026410",
@@ -1242,8 +1229,7 @@
           "frequency": "daily",
           "sortOrder": 15,
           "completedAt": "09:52 น.",
-          "completedBy": "ohm",
-          "completedDate": "2026-11-21"
+          "completedBy": "ohm"
         },
         {
           "id": "sop-1795112061326",
@@ -1256,8 +1242,7 @@
           "frequency": "daily",
           "sortOrder": 16,
           "completedAt": "09:48 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795112103263",
@@ -1270,8 +1255,7 @@
           "frequency": "daily",
           "sortOrder": 17,
           "completedAt": "09:48 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795112152627",
@@ -1284,8 +1268,7 @@
           "frequency": "daily",
           "sortOrder": 14,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795112207621",
@@ -1299,8 +1282,7 @@
           "frequency": "daily",
           "sortOrder": 18,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795112279099",
@@ -1313,8 +1295,7 @@
           "frequency": "daily",
           "sortOrder": 20,
           "completedAt": "16:45 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795112314502",
@@ -1328,8 +1309,7 @@
           "sortOrder": 1,
           "isPinned": true,
           "completedAt": "16:45 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795112970578",
@@ -1344,8 +1324,7 @@
           "sortOrder": 2,
           "isPinned": true,
           "completedAt": "16:45 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795190591997",
@@ -1357,11 +1336,10 @@
           "startTime": "08:30",
           "frequency": "daily",
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         }
       ],
-      "updatedAt": "2026-11-21T11:56:46.568Z"
+      "updatedAt": "2026-11-21T11:57:18.389Z"
     }
   },
   "attendanceRecords": [
