@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T02:48:20.460Z",
+  "updatedAt": "2026-11-21T02:49:45.605Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -404,25 +404,29 @@
       "id": "sop-1795111431958",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "กวาดและถู บริเวณโซนที่ลูกค้านั่ง",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้น และใช้ไม้กวาดพลาสติก สำหรับกวาดบริเวณโซนในร้าน\nยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดเน้นบริเวณทางเดินและใต้โต๊ะกับใต้โซฟา",
-      "sortOrder": 9
+      "sortOrder": 9,
+      "completedAt": "09:52 น.",
+      "completedBy": "ohm"
     },
     {
       "id": "sop-1795111486920",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "กวาดและถูบริเวณหลังร้านหน้าห้องน้ำกวาดและถูบริเวณหลังร้านหน้าห้องน้ำจนถึงบันได",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
-      "sortOrder": 10
+      "sortOrder": 10,
+      "completedAt": "09:52 น.",
+      "completedBy": "ohm"
     },
     {
       "id": "sop-1795111561664",
@@ -517,12 +521,14 @@
       "id": "sop-1795112026410",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ทำความสะอาดโต๊ะวางขวด ชั้นวางแก้ว และจัดวางให้เรียบร้อยให้เป็นระเบียบ",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:50 น.",
       "startTime": "08:50",
       "frequency": "daily",
-      "sortOrder": 15
+      "sortOrder": 15,
+      "completedAt": "09:52 น.",
+      "completedBy": "ohm"
     },
     {
       "id": "sop-1795112061326",
@@ -1024,7 +1030,7 @@
     "2026-11-21": {
       "date": "2026-11-21",
       "totalTasks": 21,
-      "completedTasks": 15,
+      "completedTasks": 18,
       "isFullyCompleted": false,
       "items": [
         {
@@ -1086,25 +1092,29 @@
           "id": "sop-1795111431958",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "กวาดและถู บริเวณโซนที่ลูกค้านั่ง",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้น และใช้ไม้กวาดพลาสติก สำหรับกวาดบริเวณโซนในร้าน\nยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดเน้นบริเวณทางเดินและใต้โต๊ะกับใต้โซฟา",
           "frequency": "daily",
-          "sortOrder": 9
+          "sortOrder": 9,
+          "completedAt": "09:52 น.",
+          "completedBy": "ohm"
         },
         {
           "id": "sop-1795111486920",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "กวาดและถูบริเวณหลังร้านหน้าห้องน้ำกวาดและถูบริเวณหลังร้านหน้าห้องน้ำจนถึงบันได",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
           "frequency": "daily",
-          "sortOrder": 10
+          "sortOrder": 10,
+          "completedAt": "09:52 น.",
+          "completedBy": "ohm"
         },
         {
           "id": "sop-1795111561664",
@@ -1195,12 +1205,14 @@
           "id": "sop-1795112026410",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดโต๊ะวางขวด ชั้นวางแก้ว และจัดวางให้เรียบร้อยให้เป็นระเบียบ",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:50 น.",
           "startTime": "08:50",
           "frequency": "daily",
-          "sortOrder": 15
+          "sortOrder": 15,
+          "completedAt": "09:52 น.",
+          "completedBy": "ohm"
         },
         {
           "id": "sop-1795112061326",
@@ -1304,7 +1316,7 @@
           "completedBy": "Mint"
         }
       ],
-      "updatedAt": "2026-11-21T02:48:15.575Z"
+      "updatedAt": "2026-11-21T02:52:12.355Z"
     }
   },
   "attendanceRecords": [
