@@ -1,8 +1,7 @@
 {
-  "updatedAt": "2026-11-21T02:13:19.749Z",
+  "updatedAt": "2026-11-21T02:48:00.827Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
-  "sopActiveDate": "2026-11-21",
   "dailyMotivationalNote": {
     "emoji": "💖",
     "title": "ข้อความประจำวัน (Daily Inspiration)",
@@ -474,12 +473,14 @@
       "id": "sop-1795111804593",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดทำความสะอาดโต๊ะเคาน์เตอร์บาร์",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:45 น.",
       "startTime": "08:45",
       "frequency": "daily",
-      "sortOrder": 12
+      "sortOrder": 12,
+      "completedAt": "09:47 น.",
+      "completedBy": "Mint"
     },
     {
       "id": "sop-1795111876321",
@@ -1015,7 +1016,7 @@
     "2026-11-21": {
       "date": "2026-11-21",
       "totalTasks": 21,
-      "completedTasks": 10,
+      "completedTasks": 11,
       "isFullyCompleted": false,
       "items": [
         {
@@ -1030,8 +1031,7 @@
           "frequency": "daily",
           "sortOrder": 6,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795110756199",
@@ -1057,8 +1057,7 @@
           "frequency": "daily",
           "sortOrder": 7,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795110864356",
@@ -1071,8 +1070,7 @@
           "frequency": "daily",
           "sortOrder": 8,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111431958",
@@ -1110,8 +1108,7 @@
           "frequency": "daily",
           "sortOrder": 11,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111609276",
@@ -1126,8 +1123,7 @@
           "sortOrder": 4,
           "isPinned": true,
           "completedAt": "09:08 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111691106",
@@ -1142,19 +1138,20 @@
           "sortOrder": 5,
           "isPinned": true,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111804593",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดทำความสะอาดโต๊ะเคาน์เตอร์บาร์",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:45 น.",
           "startTime": "08:45",
           "frequency": "daily",
-          "sortOrder": 12
+          "sortOrder": 12,
+          "completedAt": "09:47 น.",
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111876321",
@@ -1167,8 +1164,7 @@
           "frequency": "daily",
           "sortOrder": 13,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111947851",
@@ -1227,8 +1223,7 @@
           "frequency": "daily",
           "sortOrder": 14,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795112207621",
@@ -1242,8 +1237,7 @@
           "frequency": "daily",
           "sortOrder": 18,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795112279099",
@@ -1291,11 +1285,10 @@
           "startTime": "08:30",
           "frequency": "daily",
           "completedAt": "09:09 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-21"
+          "completedBy": "Mint"
         }
       ],
-      "updatedAt": "2026-11-21T02:13:16.409Z"
+      "updatedAt": "2026-11-21T02:47:57.503Z"
     }
   },
   "attendanceRecords": [
