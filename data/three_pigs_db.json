@@ -1,7 +1,8 @@
 {
-  "updatedAt": "2026-11-21T02:10:02.000Z",
+  "updatedAt": "2026-11-21T02:13:19.749Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
+  "sopActiveDate": "2026-11-21",
   "dailyMotivationalNote": {
     "emoji": "💖",
     "title": "ข้อความประจำวัน (Daily Inspiration)",
@@ -354,7 +355,8 @@
       "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน",
       "sortOrder": 6,
       "completedAt": "09:09 น.",
-      "completedBy": "Mint"
+      "completedBy": "Mint",
+      "completedDate": "2026-11-21"
     },
     {
       "id": "sop-1795110756199",
@@ -380,7 +382,8 @@
       "frequency": "daily",
       "sortOrder": 7,
       "completedAt": "09:09 น.",
-      "completedBy": "Mint"
+      "completedBy": "Mint",
+      "completedDate": "2026-11-21"
     },
     {
       "id": "sop-1795110864356",
@@ -393,7 +396,8 @@
       "frequency": "daily",
       "sortOrder": 8,
       "completedAt": "09:09 น.",
-      "completedBy": "Mint"
+      "completedBy": "Mint",
+      "completedDate": "2026-11-21"
     },
     {
       "id": "sop-1795111431958",
@@ -431,7 +435,8 @@
       "sopNotes": "ใช้ไม้กวาดดอกหญ้า และใช้ผ้าขี้ริ้วสำหรับและใช้ผ้าขี้ริ้วสำหรับไว้ถูหน้าร้าน",
       "sortOrder": 11,
       "completedAt": "09:09 น.",
-      "completedBy": "Mint"
+      "completedBy": "Mint",
+      "completedDate": "2026-11-21"
     },
     {
       "id": "sop-1795111609276",
@@ -446,7 +451,8 @@
       "sortOrder": 4,
       "isPinned": true,
       "completedAt": "09:08 น.",
-      "completedBy": "Mint"
+      "completedBy": "Mint",
+      "completedDate": "2026-11-21"
     },
     {
       "id": "sop-1795111691106",
@@ -461,7 +467,8 @@
       "sortOrder": 5,
       "isPinned": true,
       "completedAt": "09:09 น.",
-      "completedBy": "Mint"
+      "completedBy": "Mint",
+      "completedDate": "2026-11-21"
     },
     {
       "id": "sop-1795111804593",
@@ -485,7 +492,8 @@
       "frequency": "daily",
       "sortOrder": 13,
       "completedAt": "09:09 น.",
-      "completedBy": "Mint"
+      "completedBy": "Mint",
+      "completedDate": "2026-11-21"
     },
     {
       "id": "sop-1795111947851",
@@ -544,7 +552,8 @@
       "frequency": "daily",
       "sortOrder": 14,
       "completedAt": "09:09 น.",
-      "completedBy": "Mint"
+      "completedBy": "Mint",
+      "completedDate": "2026-11-21"
     },
     {
       "id": "sop-1795112207621",
@@ -558,7 +567,8 @@
       "sopNotes": "ขัดพื้นและโถส้วมและกำแพง",
       "sortOrder": 18,
       "completedAt": "09:09 น.",
-      "completedBy": "Mint"
+      "completedBy": "Mint",
+      "completedDate": "2026-11-21"
     },
     {
       "id": "sop-1795112279099",
@@ -619,7 +629,8 @@
       "startTime": "08:30",
       "frequency": "daily",
       "completedAt": "09:09 น.",
-      "completedBy": "Mint"
+      "completedBy": "Mint",
+      "completedDate": "2026-11-21"
     }
   ],
   "sopCategories": [
@@ -1019,7 +1030,8 @@
           "frequency": "daily",
           "sortOrder": 6,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-21"
         },
         {
           "id": "sop-1795110756199",
@@ -1045,7 +1057,8 @@
           "frequency": "daily",
           "sortOrder": 7,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-21"
         },
         {
           "id": "sop-1795110864356",
@@ -1058,7 +1071,8 @@
           "frequency": "daily",
           "sortOrder": 8,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-21"
         },
         {
           "id": "sop-1795111431958",
@@ -1096,7 +1110,8 @@
           "frequency": "daily",
           "sortOrder": 11,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-21"
         },
         {
           "id": "sop-1795111609276",
@@ -1111,7 +1126,8 @@
           "sortOrder": 4,
           "isPinned": true,
           "completedAt": "09:08 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-21"
         },
         {
           "id": "sop-1795111691106",
@@ -1126,7 +1142,8 @@
           "sortOrder": 5,
           "isPinned": true,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-21"
         },
         {
           "id": "sop-1795111804593",
@@ -1150,7 +1167,8 @@
           "frequency": "daily",
           "sortOrder": 13,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-21"
         },
         {
           "id": "sop-1795111947851",
@@ -1209,7 +1227,8 @@
           "frequency": "daily",
           "sortOrder": 14,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-21"
         },
         {
           "id": "sop-1795112207621",
@@ -1223,7 +1242,8 @@
           "frequency": "daily",
           "sortOrder": 18,
           "completedAt": "09:09 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-21"
         },
         {
           "id": "sop-1795112279099",
@@ -1271,10 +1291,11 @@
           "startTime": "08:30",
           "frequency": "daily",
           "completedAt": "09:09 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-21"
         }
       ],
-      "updatedAt": "2026-11-21T02:09:54.060Z"
+      "updatedAt": "2026-11-21T02:13:16.409Z"
     }
   },
   "attendanceRecords": [
