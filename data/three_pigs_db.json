@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T02:08:44.975Z",
+  "updatedAt": "2026-11-21T02:09:08.218Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -444,14 +444,16 @@
       "id": "sop-1795111691106",
       "category": "บริการ & เตรียมสต็อก (Service & Stock)",
       "task": "เช็กสต๊อก",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:30 น.",
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
       "sortOrder": 5,
-      "isPinned": true
+      "isPinned": true,
+      "completedAt": "09:09 น.",
+      "completedBy": "Mint"
     },
     {
       "id": "sop-1795111804593",
@@ -986,7 +988,7 @@
     "2026-11-21": {
       "date": "2026-11-21",
       "totalTasks": 21,
-      "completedTasks": 1,
+      "completedTasks": 2,
       "isFullyCompleted": false,
       "items": [
         {
@@ -1091,14 +1093,16 @@
           "id": "sop-1795111691106",
           "category": "บริการ & เตรียมสต็อก (Service & Stock)",
           "task": "เช็กสต๊อก",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:30 น.",
           "startTime": "08:30",
           "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
           "frequency": "daily",
           "sortOrder": 5,
-          "isPinned": true
+          "isPinned": true,
+          "completedAt": "09:09 น.",
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111804593",
@@ -1238,7 +1242,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-21T02:08:40.945Z"
+      "updatedAt": "2026-11-21T02:09:03.988Z"
     }
   },
   "attendanceRecords": [
