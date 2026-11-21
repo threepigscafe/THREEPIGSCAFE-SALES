@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T02:09:28.507Z",
+  "updatedAt": "2026-11-21T02:09:33.170Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "dailyMotivationalNote": {
@@ -423,13 +423,15 @@
       "id": "sop-1795111561664",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ทำความสะอาดหน้าร้าน",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้ไม้กวาดดอกหญ้า และใช้ผ้าขี้ริ้วสำหรับและใช้ผ้าขี้ริ้วสำหรับไว้ถูหน้าร้าน",
-      "sortOrder": 11
+      "sortOrder": 11,
+      "completedAt": "09:09 น.",
+      "completedBy": "Mint"
     },
     {
       "id": "sop-1795111609276",
@@ -994,7 +996,7 @@
     "2026-11-21": {
       "date": "2026-11-21",
       "totalTasks": 21,
-      "completedTasks": 5,
+      "completedTasks": 6,
       "isFullyCompleted": false,
       "items": [
         {
@@ -1078,13 +1080,15 @@
           "id": "sop-1795111561664",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดหน้าร้าน",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "ใช้ไม้กวาดดอกหญ้า และใช้ผ้าขี้ริ้วสำหรับและใช้ผ้าขี้ริ้วสำหรับไว้ถูหน้าร้าน",
           "frequency": "daily",
-          "sortOrder": 11
+          "sortOrder": 11,
+          "completedAt": "09:09 น.",
+          "completedBy": "Mint"
         },
         {
           "id": "sop-1795111609276",
@@ -1254,7 +1258,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-21T02:09:25.294Z"
+      "updatedAt": "2026-11-21T02:09:29.722Z"
     }
   },
   "attendanceRecords": [
