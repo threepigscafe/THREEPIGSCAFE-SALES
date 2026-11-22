@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T17:21:22.159Z",
+  "updatedAt": "2026-11-22T17:36:08.947Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-23",
@@ -116,14 +116,22 @@
     }
   ],
   "salesTarget": {
-    "dailyRevenue": 4500,
-    "dailyCups": 50,
-    "monthlyRevenue": 135000,
-    "channelDistribution": {
-      "dinein": 45,
-      "online": 35,
-      "grab": 20
-    }
+    "title": "เป้าหมายวีคสุดท้ายเดือน พฟศจิกายน /2026 — เทศกาลต้อนรับลมหนาว พนัสนิคม",
+    "startDate": "2026-11-23",
+    "endDate": "2026-11-30",
+    "dailyTarget": 500,
+    "dailyCupsTarget": 10,
+    "weeklyTarget": 3000,
+    "weeklyCupsTarget": 50,
+    "monthlyTarget": 3500,
+    "monthlyCupsTarget": 50,
+    "channelTargetPct": {
+      "dinein": 10,
+      "online": 40,
+      "grab": 0
+    },
+    "notes": "เน้นหน้าร้านมากขึ้น เพราะจะเริ่มทำคอนเท้นต์",
+    "updatedAt": "2026-11-23"
   },
   "dailyRecords": [],
   "monthlySales": [],
