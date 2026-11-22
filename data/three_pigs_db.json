@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T02:28:25.446Z",
+  "updatedAt": "2026-11-22T02:28:28.932Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-22",
@@ -527,23 +527,29 @@
       "id": "sop-1795112026410",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ทำความสะอาดโต๊ะวางขวด ชั้นวางแก้ว และจัดวางให้เรียบร้อยให้เป็นระเบียบ",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:50 น.",
       "startTime": "08:50",
       "frequency": "daily",
-      "sortOrder": 15
+      "sortOrder": 15,
+      "completedAt": "09:28 น.",
+      "completedBy": "ohm",
+      "completedDate": "2026-11-22"
     },
     {
       "id": "sop-1795112061326",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ทำความสะอาดอ่างล้างจาน",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:50 น.",
       "startTime": "08:50",
       "frequency": "daily",
-      "sortOrder": 16
+      "sortOrder": 16,
+      "completedAt": "09:28 น.",
+      "completedBy": "ohm",
+      "completedDate": "2026-11-22"
     },
     {
       "id": "sop-1795112103263",
@@ -1330,7 +1336,7 @@
     "2026-11-22": {
       "date": "2026-11-22",
       "totalTasks": 21,
-      "completedTasks": 16,
+      "completedTasks": 18,
       "isFullyCompleted": false,
       "items": [
         {
@@ -1517,23 +1523,29 @@
           "id": "sop-1795112026410",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดโต๊ะวางขวด ชั้นวางแก้ว และจัดวางให้เรียบร้อยให้เป็นระเบียบ",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:50 น.",
           "startTime": "08:50",
           "frequency": "daily",
-          "sortOrder": 15
+          "sortOrder": 15,
+          "completedAt": "09:28 น.",
+          "completedBy": "ohm",
+          "completedDate": "2026-11-22"
         },
         {
           "id": "sop-1795112061326",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดอ่างล้างจาน",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:50 น.",
           "startTime": "08:50",
           "frequency": "daily",
-          "sortOrder": 16
+          "sortOrder": 16,
+          "completedAt": "09:28 น.",
+          "completedBy": "ohm",
+          "completedDate": "2026-11-22"
         },
         {
           "id": "sop-1795112103263",
@@ -1628,7 +1640,7 @@
           "completedDate": "2026-11-22"
         }
       ],
-      "updatedAt": "2026-11-22T02:28:24.631Z"
+      "updatedAt": "2026-11-22T02:28:28.310Z"
     }
   },
   "attendanceRecords": [
