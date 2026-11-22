@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T02:25:24.040Z",
+  "updatedAt": "2026-11-22T02:25:54.267Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-22",
@@ -497,12 +497,15 @@
       "id": "sop-1795111876321",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดทำความสะอาด แก้วภาชนะต่างๆและยางปูโต๊ะเคาน์เตอร์ และจัดวางให้เรียบร้อย",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:45 น.",
       "startTime": "08:45",
       "frequency": "daily",
-      "sortOrder": 13
+      "sortOrder": 13,
+      "completedAt": "09:25 น.",
+      "completedBy": "ohm",
+      "completedDate": "2026-11-22"
     },
     {
       "id": "sop-1795111947851",
@@ -1312,7 +1315,7 @@
     "2026-11-22": {
       "date": "2026-11-22",
       "totalTasks": 21,
-      "completedTasks": 10,
+      "completedTasks": 11,
       "isFullyCompleted": false,
       "items": [
         {
@@ -1469,12 +1472,15 @@
           "id": "sop-1795111876321",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดทำความสะอาด แก้วภาชนะต่างๆและยางปูโต๊ะเคาน์เตอร์ และจัดวางให้เรียบร้อย",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:45 น.",
           "startTime": "08:45",
           "frequency": "daily",
-          "sortOrder": 13
+          "sortOrder": 13,
+          "completedAt": "09:25 น.",
+          "completedBy": "ohm",
+          "completedDate": "2026-11-22"
         },
         {
           "id": "sop-1795111947851",
@@ -1592,7 +1598,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-22T02:25:21.553Z"
+      "updatedAt": "2026-11-22T02:25:53.685Z"
     }
   },
   "attendanceRecords": [
