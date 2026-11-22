@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T02:25:12.496Z",
+  "updatedAt": "2026-11-22T02:25:16.228Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-22",
@@ -421,13 +421,16 @@
       "id": "sop-1795111486920",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "กวาดและถูบริเวณหลังร้านหน้าห้องน้ำกวาดและถูบริเวณหลังร้านหน้าห้องน้ำจนถึงบันได",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
-      "sortOrder": 10
+      "sortOrder": 10,
+      "completedAt": "09:25 น.",
+      "completedBy": "ohm",
+      "completedDate": "2026-11-22"
     },
     {
       "id": "sop-1795111561664",
@@ -1303,7 +1306,7 @@
     "2026-11-22": {
       "date": "2026-11-22",
       "totalTasks": 21,
-      "completedTasks": 7,
+      "completedTasks": 8,
       "isFullyCompleted": false,
       "items": [
         {
@@ -1384,13 +1387,16 @@
           "id": "sop-1795111486920",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "กวาดและถูบริเวณหลังร้านหน้าห้องน้ำกวาดและถูบริเวณหลังร้านหน้าห้องน้ำจนถึงบันได",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
           "frequency": "daily",
-          "sortOrder": 10
+          "sortOrder": 10,
+          "completedAt": "09:25 น.",
+          "completedBy": "ohm",
+          "completedDate": "2026-11-22"
         },
         {
           "id": "sop-1795111561664",
@@ -1574,7 +1580,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-22T02:25:11.454Z"
+      "updatedAt": "2026-11-22T02:25:13.485Z"
     }
   },
   "attendanceRecords": [
