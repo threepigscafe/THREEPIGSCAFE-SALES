@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T07:28:35.137Z",
+  "updatedAt": "2026-11-22T09:37:50.637Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-22",
@@ -612,13 +612,16 @@
       "id": "sop-1795112314502",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ทำความสะอาดและเตรียมอุปกรณ์เตรียมวัตถุดิบสำหรับขายตอนเย็น",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "16:00 น.",
       "startTime": "16:00",
       "frequency": "daily",
       "sortOrder": 1,
-      "isPinned": true
+      "isPinned": true,
+      "completedAt": "16:37 น.",
+      "completedBy": "ohm",
+      "completedDate": "2026-11-22"
     },
     {
       "id": "sop-1795112839206",
@@ -1339,7 +1342,7 @@
     "2026-11-22": {
       "date": "2026-11-22",
       "totalTasks": 21,
-      "completedTasks": 19,
+      "completedTasks": 20,
       "isFullyCompleted": false,
       "items": [
         {
@@ -1611,13 +1614,16 @@
           "id": "sop-1795112314502",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดและเตรียมอุปกรณ์เตรียมวัตถุดิบสำหรับขายตอนเย็น",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "16:00 น.",
           "startTime": "16:00",
           "frequency": "daily",
           "sortOrder": 1,
-          "isPinned": true
+          "isPinned": true,
+          "completedAt": "16:37 น.",
+          "completedBy": "ohm",
+          "completedDate": "2026-11-22"
         },
         {
           "id": "sop-1795112970578",
@@ -1646,7 +1652,7 @@
           "completedDate": "2026-11-22"
         }
       ],
-      "updatedAt": "2026-11-22T07:28:30.688Z"
+      "updatedAt": "2026-11-22T09:37:50.017Z"
     }
   },
   "attendanceRecords": [
