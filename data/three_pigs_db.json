@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T12:00:49.112Z",
+  "updatedAt": "2026-11-23T12:00:54.493Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-23",
@@ -648,17 +648,14 @@
       "id": "sop-1795112970578",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ใส่น้ำยาจูลินทรีย์ที่บ่อดักไขมัน",
-      "completed": true,
+      "completed": false,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "15:00 น.",
       "startTime": "15:00",
       "frequency": "daily",
       "sopNotes": "1ขวด แบ่งให้ใช้ได้3ครั้ง ใส่3ช่องของบ่อไดไขมัน\nทิ้งไว้ 15 นาที ค่อยเปิดน้ำทิ้ง\nหลังจากนั้นเอาน้ำฉีด น้ำที่ไปมาจากอ่างล้างแก้วลงท่อในห้องน้ำ",
       "sortOrder": 2,
-      "isPinned": true,
-      "completedAt": "19:00 น.",
-      "completedBy": "Mint",
-      "completedDate": "2026-11-23"
+      "isPinned": true
     },
     {
       "id": "sop-1795190591997",
@@ -1668,8 +1665,8 @@
     "2026-11-23": {
       "date": "2026-11-23",
       "totalTasks": 21,
-      "completedTasks": 21,
-      "isFullyCompleted": true,
+      "completedTasks": 20,
+      "isFullyCompleted": false,
       "items": [
         {
           "id": "sop-1795110668398",
@@ -1955,17 +1952,14 @@
           "id": "sop-1795112970578",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ใส่น้ำยาจูลินทรีย์ที่บ่อดักไขมัน",
-          "completed": true,
+          "completed": false,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "15:00 น.",
           "startTime": "15:00",
           "sopNotes": "1ขวด แบ่งให้ใช้ได้3ครั้ง ใส่3ช่องของบ่อไดไขมัน\nทิ้งไว้ 15 นาที ค่อยเปิดน้ำทิ้ง\nหลังจากนั้นเอาน้ำฉีด น้ำที่ไปมาจากอ่างล้างแก้วลงท่อในห้องน้ำ",
           "frequency": "daily",
           "sortOrder": 2,
-          "isPinned": true,
-          "completedAt": "19:00 น.",
-          "completedBy": "Mint",
-          "completedDate": "2026-11-23"
+          "isPinned": true
         },
         {
           "id": "sop-1795190591997",
@@ -1981,7 +1975,7 @@
           "completedDate": "2026-11-23"
         }
       ],
-      "updatedAt": "2026-11-23T12:00:45.836Z"
+      "updatedAt": "2026-11-23T12:00:53.800Z"
     }
   },
   "attendanceRecords": [
