@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T02:18:08.263Z",
+  "updatedAt": "2026-11-23T02:18:17.053Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-23",
@@ -386,23 +386,29 @@
       "id": "sop-1795110805849",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดกระจกบานหน้าร้าน",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 7
+      "sortOrder": 7,
+      "completedAt": "09:18 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-23"
     },
     {
       "id": "sop-1795110864356",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดกระจกหลังร้าน (ทางไปห้องน้ำ)",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 8
+      "sortOrder": 8,
+      "completedAt": "09:18 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-23"
     },
     {
       "id": "sop-1795111431958",
@@ -438,13 +444,16 @@
       "id": "sop-1795111561664",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ทำความสะอาดหน้าร้าน",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้ไม้กวาดดอกหญ้า และใช้ผ้าขี้ริ้วสำหรับและใช้ผ้าขี้ริ้วสำหรับไว้ถูหน้าร้าน",
-      "sortOrder": 11
+      "sortOrder": 11,
+      "completedAt": "09:18 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-23"
     },
     {
       "id": "sop-1795111609276",
@@ -482,12 +491,15 @@
       "id": "sop-1795111804593",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดทำความสะอาดโต๊ะเคาน์เตอร์บาร์",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:45 น.",
       "startTime": "08:45",
       "frequency": "daily",
-      "sortOrder": 12
+      "sortOrder": 12,
+      "completedAt": "09:18 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-23"
     },
     {
       "id": "sop-1795111876321",
@@ -1632,7 +1644,7 @@
     "2026-11-23": {
       "date": "2026-11-23",
       "totalTasks": 21,
-      "completedTasks": 9,
+      "completedTasks": 13,
       "isFullyCompleted": false,
       "items": [
         {
@@ -1670,23 +1682,29 @@
           "id": "sop-1795110805849",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดกระจกบานหน้าร้าน",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 7
+          "sortOrder": 7,
+          "completedAt": "09:18 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-23"
         },
         {
           "id": "sop-1795110864356",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดกระจกหลังร้าน (ทางไปห้องน้ำ)",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 8
+          "sortOrder": 8,
+          "completedAt": "09:18 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-23"
         },
         {
           "id": "sop-1795111431958",
@@ -1722,13 +1740,16 @@
           "id": "sop-1795111561664",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดหน้าร้าน",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "ใช้ไม้กวาดดอกหญ้า และใช้ผ้าขี้ริ้วสำหรับและใช้ผ้าขี้ริ้วสำหรับไว้ถูหน้าร้าน",
           "frequency": "daily",
-          "sortOrder": 11
+          "sortOrder": 11,
+          "completedAt": "09:18 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-23"
         },
         {
           "id": "sop-1795111609276",
@@ -1766,12 +1787,15 @@
           "id": "sop-1795111804593",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดทำความสะอาดโต๊ะเคาน์เตอร์บาร์",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:45 น.",
           "startTime": "08:45",
           "frequency": "daily",
-          "sortOrder": 12
+          "sortOrder": 12,
+          "completedAt": "09:18 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-23"
         },
         {
           "id": "sop-1795111876321",
@@ -1909,7 +1933,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-23T02:18:00.355Z"
+      "updatedAt": "2026-11-23T02:18:10.026Z"
     }
   },
   "attendanceRecords": [
