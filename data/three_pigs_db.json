@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T01:31:39.246Z",
+  "updatedAt": "2026-11-23T01:31:43.227Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-23",
@@ -441,14 +441,17 @@
       "id": "sop-1795111609276",
       "category": "เปิดร้าน (Opening)",
       "task": "จัดเตรียมอุปกรณ์สำหรับจัดเตรียมอุปกรณ์สำหรับการขายให้เรียบร้อย",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:30 น.",
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
       "sortOrder": 4,
-      "isPinned": true
+      "isPinned": true,
+      "completedAt": "08:31 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-23"
     },
     {
       "id": "sop-1795111691106",
@@ -1608,7 +1611,7 @@
     "2026-11-23": {
       "date": "2026-11-23",
       "totalTasks": 21,
-      "completedTasks": 1,
+      "completedTasks": 2,
       "isFullyCompleted": false,
       "items": [
         {
@@ -1701,14 +1704,17 @@
           "id": "sop-1795111609276",
           "category": "เปิดร้าน (Opening)",
           "task": "จัดเตรียมอุปกรณ์สำหรับจัดเตรียมอุปกรณ์สำหรับการขายให้เรียบร้อย",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:30 น.",
           "startTime": "08:30",
           "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
           "frequency": "daily",
           "sortOrder": 4,
-          "isPinned": true
+          "isPinned": true,
+          "completedAt": "08:31 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-23"
         },
         {
           "id": "sop-1795111691106",
@@ -1861,7 +1867,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-23T01:31:38.349Z"
+      "updatedAt": "2026-11-23T01:31:40.896Z"
     }
   },
   "attendanceRecords": [
