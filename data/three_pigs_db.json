@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T02:18:17.053Z",
+  "updatedAt": "2026-11-23T02:18:27.671Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-23",
@@ -546,12 +546,15 @@
       "id": "sop-1795112061326",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ทำความสะอาดอ่างล้างจาน",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:50 น.",
       "startTime": "08:50",
       "frequency": "daily",
-      "sortOrder": 16
+      "sortOrder": 16,
+      "completedAt": "09:18 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-23"
     },
     {
       "id": "sop-1795112103263",
@@ -1644,7 +1647,7 @@
     "2026-11-23": {
       "date": "2026-11-23",
       "totalTasks": 21,
-      "completedTasks": 13,
+      "completedTasks": 14,
       "isFullyCompleted": false,
       "items": [
         {
@@ -1842,12 +1845,15 @@
           "id": "sop-1795112061326",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดอ่างล้างจาน",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:50 น.",
           "startTime": "08:50",
           "frequency": "daily",
-          "sortOrder": 16
+          "sortOrder": 16,
+          "completedAt": "09:18 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-23"
         },
         {
           "id": "sop-1795112103263",
@@ -1933,7 +1939,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-23T02:18:10.026Z"
+      "updatedAt": "2026-11-23T02:18:19.899Z"
     }
   },
   "attendanceRecords": [
