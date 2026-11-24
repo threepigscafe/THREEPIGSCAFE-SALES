@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T01:58:28.919Z",
+  "updatedAt": "2026-11-24T01:58:36.481Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-24",
@@ -523,12 +523,15 @@
       "id": "sop-1795112026410",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ทำความสะอาดโต๊ะวางขวด ชั้นวางแก้ว และจัดวางให้เรียบร้อยให้เป็นระเบียบ",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:50 น.",
       "startTime": "08:50",
       "frequency": "daily",
-      "sortOrder": 15
+      "sortOrder": 15,
+      "completedAt": "08:58 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-24"
     },
     {
       "id": "sop-1795112061326",
@@ -556,12 +559,15 @@
       "id": "sop-1795112152627",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "จัดเตรียมถุงดำจัดเตรียมถุงดำในถังขยะและที่ทิ้งกากกาแฟ",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 14
+      "sortOrder": 14,
+      "completedAt": "08:58 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-24"
     },
     {
       "id": "sop-1795112207621",
@@ -1944,7 +1950,7 @@
     "2026-11-24": {
       "date": "2026-11-24",
       "totalTasks": 21,
-      "completedTasks": 8,
+      "completedTasks": 10,
       "isFullyCompleted": false,
       "items": [
         {
@@ -2119,12 +2125,15 @@
           "id": "sop-1795112026410",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดโต๊ะวางขวด ชั้นวางแก้ว และจัดวางให้เรียบร้อยให้เป็นระเบียบ",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:50 น.",
           "startTime": "08:50",
           "frequency": "daily",
-          "sortOrder": 15
+          "sortOrder": 15,
+          "completedAt": "08:58 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-24"
         },
         {
           "id": "sop-1795112061326",
@@ -2152,12 +2161,15 @@
           "id": "sop-1795112152627",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "จัดเตรียมถุงดำจัดเตรียมถุงดำในถังขยะและที่ทิ้งกากกาแฟ",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 14
+          "sortOrder": 14,
+          "completedAt": "08:58 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-24"
         },
         {
           "id": "sop-1795112207621",
@@ -2218,7 +2230,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-24T01:58:23.681Z"
+      "updatedAt": "2026-11-24T01:58:29.316Z"
     }
   },
   "attendanceRecords": [
