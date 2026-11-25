@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T01:57:13.966Z",
+  "updatedAt": "2026-11-25T01:57:17.471Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-25",
@@ -367,14 +367,17 @@
       "id": "sop-1795110756199",
       "category": "เปิดร้าน (Opening)",
       "task": "เปิดเครื่องชงกาแฟ พร้อมขายก่อน 09.00",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:30 น.",
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
       "sortOrder": 3,
-      "isPinned": true
+      "isPinned": true,
+      "completedAt": "08:57 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-25"
     },
     {
       "id": "sop-1795110805849",
@@ -438,27 +441,33 @@
       "id": "sop-1795111609276",
       "category": "เปิดร้าน (Opening)",
       "task": "จัดเตรียมอุปกรณ์สำหรับจัดเตรียมอุปกรณ์สำหรับการขายให้เรียบร้อย",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:30 น.",
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
       "sortOrder": 4,
-      "isPinned": true
+      "isPinned": true,
+      "completedAt": "08:57 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-25"
     },
     {
       "id": "sop-1795111691106",
       "category": "บริการ & เตรียมสต็อก (Service & Stock)",
       "task": "เช็กสต๊อก",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:30 น.",
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
       "sortOrder": 5,
-      "isPinned": true
+      "isPinned": true,
+      "completedAt": "08:57 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-25"
     },
     {
       "id": "sop-1795111804593",
@@ -2241,7 +2250,7 @@
     "2026-11-25": {
       "date": "2026-11-25",
       "totalTasks": 21,
-      "completedTasks": 1,
+      "completedTasks": 4,
       "isFullyCompleted": false,
       "items": [
         {
@@ -2260,14 +2269,17 @@
           "id": "sop-1795110756199",
           "category": "เปิดร้าน (Opening)",
           "task": "เปิดเครื่องชงกาแฟ พร้อมขายก่อน 09.00",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:30 น.",
           "startTime": "08:30",
           "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
           "frequency": "daily",
           "sortOrder": 3,
-          "isPinned": true
+          "isPinned": true,
+          "completedAt": "08:57 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-25"
         },
         {
           "id": "sop-1795110805849",
@@ -2331,27 +2343,33 @@
           "id": "sop-1795111609276",
           "category": "เปิดร้าน (Opening)",
           "task": "จัดเตรียมอุปกรณ์สำหรับจัดเตรียมอุปกรณ์สำหรับการขายให้เรียบร้อย",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:30 น.",
           "startTime": "08:30",
           "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
           "frequency": "daily",
           "sortOrder": 4,
-          "isPinned": true
+          "isPinned": true,
+          "completedAt": "08:57 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-25"
         },
         {
           "id": "sop-1795111691106",
           "category": "บริการ & เตรียมสต็อก (Service & Stock)",
           "task": "เช็กสต๊อก",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:30 น.",
           "startTime": "08:30",
           "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
           "frequency": "daily",
           "sortOrder": 5,
-          "isPinned": true
+          "isPinned": true,
+          "completedAt": "08:57 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-25"
         },
         {
           "id": "sop-1795111804593",
@@ -2494,7 +2512,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-25T01:57:09.991Z"
+      "updatedAt": "2026-11-25T01:57:15.868Z"
     }
   },
   "attendanceRecords": [
