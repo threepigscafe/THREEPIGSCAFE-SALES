@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T01:25:29.357Z",
+  "updatedAt": "2026-11-26T02:00:53.870Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-26",
@@ -367,14 +367,17 @@
       "id": "sop-1795110756199",
       "category": "เปิดร้าน (Opening)",
       "task": "เปิดเครื่องชงกาแฟ พร้อมขายก่อน 09.00",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:30 น.",
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
       "sortOrder": 3,
-      "isPinned": true
+      "isPinned": true,
+      "completedAt": "09:00 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-26"
     },
     {
       "id": "sop-1795110805849",
@@ -486,14 +489,17 @@
       "id": "sop-1795111947851",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ทำความสะอาดเครื่องกาแฟเครื่องบดกาแฟ",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:45 น.",
       "startTime": "08:45",
       "frequency": "daily",
       "sopNotes": "เน้นบริเวณตัวเครื่องและตามซอกต่างๆรวมถึงใต้เครื่องและรอบๆเครื่อง",
       "sortOrder": 0,
-      "isPinned": true
+      "isPinned": true,
+      "completedAt": "09:00 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-26"
     },
     {
       "id": "sop-1795112026410",
@@ -2556,7 +2562,7 @@
     "2026-11-26": {
       "date": "2026-11-26",
       "totalTasks": 21,
-      "completedTasks": 0,
+      "completedTasks": 2,
       "isFullyCompleted": false,
       "items": [
         {
@@ -2575,14 +2581,17 @@
           "id": "sop-1795110756199",
           "category": "เปิดร้าน (Opening)",
           "task": "เปิดเครื่องชงกาแฟ พร้อมขายก่อน 09.00",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:30 น.",
           "startTime": "08:30",
           "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
           "frequency": "daily",
           "sortOrder": 3,
-          "isPinned": true
+          "isPinned": true,
+          "completedAt": "09:00 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-26"
         },
         {
           "id": "sop-1795110805849",
@@ -2694,14 +2703,17 @@
           "id": "sop-1795111947851",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดเครื่องกาแฟเครื่องบดกาแฟ",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:45 น.",
           "startTime": "08:45",
           "sopNotes": "เน้นบริเวณตัวเครื่องและตามซอกต่างๆรวมถึงใต้เครื่องและรอบๆเครื่อง",
           "frequency": "daily",
           "sortOrder": 0,
-          "isPinned": true
+          "isPinned": true,
+          "completedAt": "09:00 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-26"
         },
         {
           "id": "sop-1795112026410",
@@ -2806,7 +2818,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-26T01:25:15.898Z"
+      "updatedAt": "2026-11-26T02:00:50.752Z"
     }
   },
   "attendanceRecords": [
