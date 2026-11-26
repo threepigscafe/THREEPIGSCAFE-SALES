@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T02:01:15.863Z",
+  "updatedAt": "2026-11-26T02:01:21.375Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-26",
@@ -355,13 +355,16 @@
       "id": "sop-1795110668398",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดทำความสะอาดโต๊ะ เก้าอี้",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน",
-      "sortOrder": 6
+      "sortOrder": 6,
+      "completedAt": "09:01 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-26"
     },
     {
       "id": "sop-1795110756199",
@@ -383,12 +386,15 @@
       "id": "sop-1795110805849",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดกระจกบานหน้าร้าน",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 7
+      "sortOrder": 7,
+      "completedAt": "09:01 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-26"
     },
     {
       "id": "sop-1795110864356",
@@ -457,14 +463,17 @@
       "id": "sop-1795111691106",
       "category": "บริการ & เตรียมสต็อก (Service & Stock)",
       "task": "เช็กสต๊อก",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:30 น.",
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
       "sortOrder": 5,
-      "isPinned": true
+      "isPinned": true,
+      "completedAt": "09:01 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-26"
     },
     {
       "id": "sop-1795111804593",
@@ -2565,20 +2574,23 @@
     "2026-11-26": {
       "date": "2026-11-26",
       "totalTasks": 21,
-      "completedTasks": 3,
+      "completedTasks": 6,
       "isFullyCompleted": false,
       "items": [
         {
           "id": "sop-1795110668398",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดทำความสะอาดโต๊ะ เก้าอี้",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน",
           "frequency": "daily",
-          "sortOrder": 6
+          "sortOrder": 6,
+          "completedAt": "09:01 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-26"
         },
         {
           "id": "sop-1795110756199",
@@ -2600,12 +2612,15 @@
           "id": "sop-1795110805849",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดกระจกบานหน้าร้าน",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 7
+          "sortOrder": 7,
+          "completedAt": "09:01 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-26"
         },
         {
           "id": "sop-1795110864356",
@@ -2674,14 +2689,17 @@
           "id": "sop-1795111691106",
           "category": "บริการ & เตรียมสต็อก (Service & Stock)",
           "task": "เช็กสต๊อก",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:30 น.",
           "startTime": "08:30",
           "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
           "frequency": "daily",
           "sortOrder": 5,
-          "isPinned": true
+          "isPinned": true,
+          "completedAt": "09:01 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-26"
         },
         {
           "id": "sop-1795111804593",
@@ -2824,7 +2842,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-26T02:01:14.524Z"
+      "updatedAt": "2026-11-26T02:01:19.331Z"
     }
   },
   "attendanceRecords": [
