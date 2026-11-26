@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T02:17:28.933Z",
+  "updatedAt": "2026-11-26T02:17:33.062Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-26",
@@ -591,13 +591,16 @@
       "id": "sop-1795112207621",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ทำความสะอาดห้องน้ำ",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:50 น.",
       "startTime": "08:50",
       "frequency": "daily",
       "sopNotes": "ขัดพื้นและโถส้วมและกำแพง",
-      "sortOrder": 18
+      "sortOrder": 18,
+      "completedAt": "09:17 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-26"
     },
     {
       "id": "sop-1795112279099",
@@ -652,11 +655,14 @@
       "id": "sop-1795190591997",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ทำความสะอาดห้องน้ำ",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:30 น.",
       "startTime": "08:30",
-      "frequency": "daily"
+      "frequency": "daily",
+      "completedAt": "09:17 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-26"
     }
   ],
   "sopCategories": [
@@ -2604,7 +2610,7 @@
     "2026-11-26": {
       "date": "2026-11-26",
       "totalTasks": 21,
-      "completedTasks": 16,
+      "completedTasks": 18,
       "isFullyCompleted": false,
       "items": [
         {
@@ -2847,13 +2853,16 @@
           "id": "sop-1795112207621",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดห้องน้ำ",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:50 น.",
           "startTime": "08:50",
           "sopNotes": "ขัดพื้นและโถส้วมและกำแพง",
           "frequency": "daily",
-          "sortOrder": 18
+          "sortOrder": 18,
+          "completedAt": "09:17 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-26"
         },
         {
           "id": "sop-1795112279099",
@@ -2895,14 +2904,17 @@
           "id": "sop-1795190591997",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดห้องน้ำ",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:30 น.",
           "startTime": "08:30",
-          "frequency": "daily"
+          "frequency": "daily",
+          "completedAt": "09:17 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-26"
         }
       ],
-      "updatedAt": "2026-11-26T02:17:28.013Z"
+      "updatedAt": "2026-11-26T02:17:30.386Z"
     }
   },
   "attendanceRecords": [
