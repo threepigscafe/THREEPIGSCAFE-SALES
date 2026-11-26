@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T02:01:21.375Z",
+  "updatedAt": "2026-11-26T02:01:25.586Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-26",
@@ -400,24 +400,30 @@
       "id": "sop-1795110864356",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดกระจกหลังร้าน (ทางไปห้องน้ำ)",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 8
+      "sortOrder": 8,
+      "completedAt": "09:01 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-26"
     },
     {
       "id": "sop-1795111431958",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "กวาดและถู บริเวณโซนที่ลูกค้านั่ง",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้น และใช้ไม้กวาดพลาสติก สำหรับกวาดบริเวณโซนในร้าน\nยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดเน้นบริเวณทางเดินและใต้โต๊ะกับใต้โซฟา",
-      "sortOrder": 9
+      "sortOrder": 9,
+      "completedAt": "09:01 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-26"
     },
     {
       "id": "sop-1795111486920",
@@ -2574,7 +2580,7 @@
     "2026-11-26": {
       "date": "2026-11-26",
       "totalTasks": 21,
-      "completedTasks": 6,
+      "completedTasks": 8,
       "isFullyCompleted": false,
       "items": [
         {
@@ -2626,24 +2632,30 @@
           "id": "sop-1795110864356",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดกระจกหลังร้าน (ทางไปห้องน้ำ)",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 8
+          "sortOrder": 8,
+          "completedAt": "09:01 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-26"
         },
         {
           "id": "sop-1795111431958",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "กวาดและถู บริเวณโซนที่ลูกค้านั่ง",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้น และใช้ไม้กวาดพลาสติก สำหรับกวาดบริเวณโซนในร้าน\nยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดเน้นบริเวณทางเดินและใต้โต๊ะกับใต้โซฟา",
           "frequency": "daily",
-          "sortOrder": 9
+          "sortOrder": 9,
+          "completedAt": "09:01 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-26"
         },
         {
           "id": "sop-1795111486920",
@@ -2842,7 +2854,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-26T02:01:19.331Z"
+      "updatedAt": "2026-11-26T02:01:21.028Z"
     }
   },
   "attendanceRecords": [
