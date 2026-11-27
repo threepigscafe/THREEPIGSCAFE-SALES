@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:38:32.006Z",
+  "updatedAt": "2026-11-27T08:44:23.381Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-27",
@@ -645,14 +645,17 @@
       "id": "sop-1795112970578",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ใส่น้ำยาจูลินทรีย์ที่บ่อดักไขมัน",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "15:00 น.",
       "startTime": "15:00",
       "frequency": "daily",
       "sopNotes": "1ขวด แบ่งให้ใช้ได้3ครั้ง ใส่3ช่องของบ่อไดไขมัน\nทิ้งไว้ 15 นาที ค่อยเปิดน้ำทิ้ง\nหลังจากนั้นเอาน้ำฉีด น้ำที่ไปมาจากอ่างล้างแก้วลงท่อในห้องน้ำ",
       "sortOrder": 2,
-      "isPinned": true
+      "isPinned": true,
+      "completedAt": "15:44 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-27"
     },
     {
       "id": "sop-1795190591997",
@@ -2931,7 +2934,7 @@
     "2026-11-27": {
       "date": "2026-11-27",
       "totalTasks": 21,
-      "completedTasks": 19,
+      "completedTasks": 20,
       "isFullyCompleted": false,
       "items": [
         {
@@ -3215,14 +3218,17 @@
           "id": "sop-1795112970578",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ใส่น้ำยาจูลินทรีย์ที่บ่อดักไขมัน",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "15:00 น.",
           "startTime": "15:00",
           "sopNotes": "1ขวด แบ่งให้ใช้ได้3ครั้ง ใส่3ช่องของบ่อไดไขมัน\nทิ้งไว้ 15 นาที ค่อยเปิดน้ำทิ้ง\nหลังจากนั้นเอาน้ำฉีด น้ำที่ไปมาจากอ่างล้างแก้วลงท่อในห้องน้ำ",
           "frequency": "daily",
           "sortOrder": 2,
-          "isPinned": true
+          "isPinned": true,
+          "completedAt": "15:44 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795190591997",
@@ -3238,7 +3244,7 @@
           "completedDate": "2026-11-27"
         }
       ],
-      "updatedAt": "2026-11-27T08:38:27.862Z"
+      "updatedAt": "2026-11-27T08:44:22.770Z"
     }
   },
   "attendanceRecords": [
