@@ -1,7 +1,8 @@
 {
-  "updatedAt": "2026-11-27T08:13:36.359Z",
+  "updatedAt": "2026-11-27T08:38:27.882Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
+  "sopActiveDate": "2026-11-27",
   "dailyMotivationalNote": {
     "emoji": "💖",
     "title": "ข้อความประจำวัน (Daily Inspiration)",
@@ -605,15 +606,12 @@
       "id": "sop-1795112279099",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ทำความสะอาดระหว่างวันตามความเหมาะสม",
-      "completed": true,
+      "completed": false,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "13:30 น.",
       "startTime": "13:30",
       "frequency": "daily",
-      "sortOrder": 20,
-      "completedAt": "14:25 น.",
-      "completedBy": "ohm",
-      "completedDate": "2026-11-27"
+      "sortOrder": 20
     },
     {
       "id": "sop-1795112314502",
@@ -2930,7 +2928,7 @@
     "2026-11-27": {
       "date": "2026-11-27",
       "totalTasks": 21,
-      "completedTasks": 19,
+      "completedTasks": 18,
       "isFullyCompleted": false,
       "items": [
         {
@@ -2945,7 +2943,8 @@
           "frequency": "daily",
           "sortOrder": 6,
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795110756199",
@@ -2960,7 +2959,8 @@
           "sortOrder": 3,
           "isPinned": true,
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795110805849",
@@ -2973,7 +2973,8 @@
           "frequency": "daily",
           "sortOrder": 7,
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795110864356",
@@ -2986,7 +2987,8 @@
           "frequency": "daily",
           "sortOrder": 8,
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795111431958",
@@ -3000,7 +3002,8 @@
           "frequency": "daily",
           "sortOrder": 9,
           "completedAt": "08:53 น.",
-          "completedBy": "ohm"
+          "completedBy": "ohm",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795111486920",
@@ -3014,7 +3017,8 @@
           "frequency": "daily",
           "sortOrder": 10,
           "completedAt": "08:53 น.",
-          "completedBy": "ohm"
+          "completedBy": "ohm",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795111561664",
@@ -3028,7 +3032,8 @@
           "frequency": "daily",
           "sortOrder": 11,
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795111609276",
@@ -3043,7 +3048,8 @@
           "sortOrder": 4,
           "isPinned": true,
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795111691106",
@@ -3058,7 +3064,8 @@
           "sortOrder": 5,
           "isPinned": true,
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795111804593",
@@ -3071,7 +3078,8 @@
           "frequency": "daily",
           "sortOrder": 12,
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795111876321",
@@ -3084,7 +3092,8 @@
           "frequency": "daily",
           "sortOrder": 13,
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795111947851",
@@ -3099,7 +3108,8 @@
           "sortOrder": 0,
           "isPinned": true,
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795112026410",
@@ -3112,7 +3122,8 @@
           "frequency": "daily",
           "sortOrder": 15,
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795112061326",
@@ -3125,7 +3136,8 @@
           "frequency": "daily",
           "sortOrder": 16,
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795112103263",
@@ -3138,7 +3150,8 @@
           "frequency": "daily",
           "sortOrder": 17,
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795112152627",
@@ -3151,7 +3164,8 @@
           "frequency": "daily",
           "sortOrder": 14,
           "completedAt": "08:53 น.",
-          "completedBy": "ohm"
+          "completedBy": "ohm",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795112207621",
@@ -3165,20 +3179,19 @@
           "frequency": "daily",
           "sortOrder": 18,
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795112279099",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดระหว่างวันตามความเหมาะสม",
-          "completed": true,
+          "completed": false,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "13:30 น.",
           "startTime": "13:30",
           "frequency": "daily",
-          "sortOrder": 20,
-          "completedAt": "14:25 น.",
-          "completedBy": "ohm"
+          "sortOrder": 20
         },
         {
           "id": "sop-1795112314502",
@@ -3215,10 +3228,11 @@
           "startTime": "08:30",
           "frequency": "daily",
           "completedAt": "08:54 น.",
-          "completedBy": "Mint"
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         }
       ],
-      "updatedAt": "2026-11-27T08:13:34.480Z"
+      "updatedAt": "2026-11-27T08:38:27.217Z"
     }
   },
   "attendanceRecords": [
