@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T01:53:56.355Z",
+  "updatedAt": "2026-11-27T01:54:04.904Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-27",
@@ -492,14 +492,17 @@
       "id": "sop-1795111947851",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "ทำความสะอาดเครื่องกาแฟเครื่องบดกาแฟ",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:45 น.",
       "startTime": "08:45",
       "frequency": "daily",
       "sopNotes": "เน้นบริเวณตัวเครื่องและตามซอกต่างๆรวมถึงใต้เครื่องและรอบๆเครื่อง",
       "sortOrder": 0,
-      "isPinned": true
+      "isPinned": true,
+      "completedAt": "08:54 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-27"
     },
     {
       "id": "sop-1795112026410",
@@ -2883,7 +2886,7 @@
     "2026-11-27": {
       "date": "2026-11-27",
       "totalTasks": 21,
-      "completedTasks": 3,
+      "completedTasks": 4,
       "isFullyCompleted": false,
       "items": [
         {
@@ -3027,14 +3030,17 @@
           "id": "sop-1795111947851",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "ทำความสะอาดเครื่องกาแฟเครื่องบดกาแฟ",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:45 น.",
           "startTime": "08:45",
           "sopNotes": "เน้นบริเวณตัวเครื่องและตามซอกต่างๆรวมถึงใต้เครื่องและรอบๆเครื่อง",
           "frequency": "daily",
           "sortOrder": 0,
-          "isPinned": true
+          "isPinned": true,
+          "completedAt": "08:54 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795112026410",
@@ -3142,7 +3148,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-27T01:53:51.789Z"
+      "updatedAt": "2026-11-27T01:54:04.275Z"
     }
   },
   "attendanceRecords": [
