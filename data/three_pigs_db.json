@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T01:53:45.560Z",
+  "updatedAt": "2026-11-27T01:53:52.477Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-27",
@@ -538,12 +538,15 @@
       "id": "sop-1795112152627",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "จัดเตรียมถุงดำจัดเตรียมถุงดำในถังขยะและที่ทิ้งกากกาแฟ",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 14
+      "sortOrder": 14,
+      "completedAt": "08:53 น.",
+      "completedBy": "ohm",
+      "completedDate": "2026-11-27"
     },
     {
       "id": "sop-1795112207621",
@@ -2880,7 +2883,7 @@
     "2026-11-27": {
       "date": "2026-11-27",
       "totalTasks": 21,
-      "completedTasks": 2,
+      "completedTasks": 3,
       "isFullyCompleted": false,
       "items": [
         {
@@ -3070,12 +3073,15 @@
           "id": "sop-1795112152627",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "จัดเตรียมถุงดำจัดเตรียมถุงดำในถังขยะและที่ทิ้งกากกาแฟ",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 14
+          "sortOrder": 14,
+          "completedAt": "08:53 น.",
+          "completedBy": "ohm",
+          "completedDate": "2026-11-27"
         },
         {
           "id": "sop-1795112207621",
@@ -3136,7 +3142,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-27T01:53:44.239Z"
+      "updatedAt": "2026-11-27T01:53:51.789Z"
     }
   },
   "attendanceRecords": [
