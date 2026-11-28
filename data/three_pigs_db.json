@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T06:58:12.736Z",
+  "updatedAt": "2026-11-28T06:58:19.861Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-28",
@@ -370,14 +370,17 @@
       "id": "sop-1795110756199",
       "category": "เปิดร้าน (Opening)",
       "task": "เปิดเครื่องชงกาแฟ พร้อมขายก่อน 09.00",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:30 น.",
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
       "sortOrder": 3,
-      "isPinned": true
+      "isPinned": true,
+      "completedAt": "13:58 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-28"
     },
     {
       "id": "sop-1795110805849",
@@ -3246,7 +3249,7 @@
     "2026-11-28": {
       "date": "2026-11-28",
       "totalTasks": 21,
-      "completedTasks": 18,
+      "completedTasks": 19,
       "isFullyCompleted": false,
       "items": [
         {
@@ -3268,14 +3271,17 @@
           "id": "sop-1795110756199",
           "category": "เปิดร้าน (Opening)",
           "task": "เปิดเครื่องชงกาแฟ พร้อมขายก่อน 09.00",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:30 น.",
           "startTime": "08:30",
           "sopNotes": "เปิดเครื่องชงกาแฟ วอร์มเครื่อง เทสกาแฟ",
           "frequency": "daily",
           "sortOrder": 3,
-          "isPinned": true
+          "isPinned": true,
+          "completedAt": "13:58 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-28"
         },
         {
           "id": "sop-1795110805849",
@@ -3550,7 +3556,7 @@
           "completedDate": "2026-11-28"
         }
       ],
-      "updatedAt": "2026-11-28T06:58:10.641Z"
+      "updatedAt": "2026-11-28T06:58:13.198Z"
     }
   },
   "attendanceRecords": [
