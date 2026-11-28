@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:57:29.366Z",
+  "updatedAt": "2026-11-28T01:58:34.158Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-28",
@@ -411,31 +411,25 @@
       "id": "sop-1795111431958",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "กวาดและถู บริเวณโซนที่ลูกค้านั่ง",
-      "completed": true,
+      "completed": false,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้น และใช้ไม้กวาดพลาสติก สำหรับกวาดบริเวณโซนในร้าน\nยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดเน้นบริเวณทางเดินและใต้โต๊ะกับใต้โซฟา",
-      "sortOrder": 9,
-      "completedAt": "08:57 น.",
-      "completedBy": "ohm",
-      "completedDate": "2026-11-28"
+      "sortOrder": 9
     },
     {
       "id": "sop-1795111486920",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "กวาดและถูบริเวณหลังร้านหน้าห้องน้ำกวาดและถูบริเวณหลังร้านหน้าห้องน้ำจนถึงบันได",
-      "completed": true,
+      "completed": false,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
-      "sortOrder": 10,
-      "completedAt": "08:57 น.",
-      "completedBy": "ohm",
-      "completedDate": "2026-11-28"
+      "sortOrder": 10
     },
     {
       "id": "sop-1795111561664",
@@ -488,12 +482,15 @@
       "id": "sop-1795111804593",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดทำความสะอาดโต๊ะเคาน์เตอร์บาร์",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:45 น.",
       "startTime": "08:45",
       "frequency": "daily",
-      "sortOrder": 12
+      "sortOrder": 12,
+      "completedAt": "08:58 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-28"
     },
     {
       "id": "sop-1795111876321",
@@ -3225,7 +3222,7 @@
     "2026-11-28": {
       "date": "2026-11-28",
       "totalTasks": 21,
-      "completedTasks": 11,
+      "completedTasks": 10,
       "isFullyCompleted": false,
       "items": [
         {
@@ -3288,31 +3285,25 @@
           "id": "sop-1795111431958",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "กวาดและถู บริเวณโซนที่ลูกค้านั่ง",
-          "completed": true,
+          "completed": false,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้น และใช้ไม้กวาดพลาสติก สำหรับกวาดบริเวณโซนในร้าน\nยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดเน้นบริเวณทางเดินและใต้โต๊ะกับใต้โซฟา",
           "frequency": "daily",
-          "sortOrder": 9,
-          "completedAt": "08:57 น.",
-          "completedBy": "ohm",
-          "completedDate": "2026-11-28"
+          "sortOrder": 9
         },
         {
           "id": "sop-1795111486920",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "กวาดและถูบริเวณหลังร้านหน้าห้องน้ำกวาดและถูบริเวณหลังร้านหน้าห้องน้ำจนถึงบันได",
-          "completed": true,
+          "completed": false,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้นและใช้ไม้กวาดพลาสติก",
           "frequency": "daily",
-          "sortOrder": 10,
-          "completedAt": "08:57 น.",
-          "completedBy": "ohm",
-          "completedDate": "2026-11-28"
+          "sortOrder": 10
         },
         {
           "id": "sop-1795111561664",
@@ -3365,12 +3356,15 @@
           "id": "sop-1795111804593",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดทำความสะอาดโต๊ะเคาน์เตอร์บาร์",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:45 น.",
           "startTime": "08:45",
           "frequency": "daily",
-          "sortOrder": 12
+          "sortOrder": 12,
+          "completedAt": "08:58 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-28"
         },
         {
           "id": "sop-1795111876321",
@@ -3508,7 +3502,7 @@
           "completedDate": "2026-11-28"
         }
       ],
-      "updatedAt": "2026-11-28T01:57:26.781Z"
+      "updatedAt": "2026-11-28T01:58:33.595Z"
     }
   },
   "attendanceRecords": [
