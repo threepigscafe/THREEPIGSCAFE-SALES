@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:54:34.212Z",
+  "updatedAt": "2026-11-28T01:54:38.443Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-28",
@@ -383,23 +383,29 @@
       "id": "sop-1795110805849",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดกระจกบานหน้าร้าน",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 7
+      "sortOrder": 7,
+      "completedAt": "08:54 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-28"
     },
     {
       "id": "sop-1795110864356",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดกระจกหลังร้าน (ทางไปห้องน้ำ)",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
-      "sortOrder": 8
+      "sortOrder": 8,
+      "completedAt": "08:54 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-28"
     },
     {
       "id": "sop-1795111431958",
@@ -3201,7 +3207,7 @@
     "2026-11-28": {
       "date": "2026-11-28",
       "totalTasks": 21,
-      "completedTasks": 3,
+      "completedTasks": 5,
       "isFullyCompleted": false,
       "items": [
         {
@@ -3236,23 +3242,29 @@
           "id": "sop-1795110805849",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดกระจกบานหน้าร้าน",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 7
+          "sortOrder": 7,
+          "completedAt": "08:54 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-28"
         },
         {
           "id": "sop-1795110864356",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดกระจกหลังร้าน (ทางไปห้องน้ำ)",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "frequency": "daily",
-          "sortOrder": 8
+          "sortOrder": 8,
+          "completedAt": "08:54 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-28"
         },
         {
           "id": "sop-1795111431958",
@@ -3460,7 +3472,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-28T01:54:32.940Z"
+      "updatedAt": "2026-11-28T01:54:35.206Z"
     }
   },
   "attendanceRecords": [
