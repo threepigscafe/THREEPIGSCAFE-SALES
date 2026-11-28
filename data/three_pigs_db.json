@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:54:29.996Z",
+  "updatedAt": "2026-11-28T01:54:34.212Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-28",
@@ -355,13 +355,16 @@
       "id": "sop-1795110668398",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "เช็ดทำความสะอาดโต๊ะ เก้าอี้",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน",
-      "sortOrder": 6
+      "sortOrder": 6,
+      "completedAt": "08:54 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-28"
     },
     {
       "id": "sop-1795110756199",
@@ -438,27 +441,33 @@
       "id": "sop-1795111609276",
       "category": "เปิดร้าน (Opening)",
       "task": "จัดเตรียมอุปกรณ์สำหรับจัดเตรียมอุปกรณ์สำหรับการขายให้เรียบร้อย",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:30 น.",
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
       "sortOrder": 4,
-      "isPinned": true
+      "isPinned": true,
+      "completedAt": "08:54 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-28"
     },
     {
       "id": "sop-1795111691106",
       "category": "บริการ & เตรียมสต็อก (Service & Stock)",
       "task": "เช็กสต๊อก",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:30 น.",
       "startTime": "08:30",
       "frequency": "daily",
       "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
       "sortOrder": 5,
-      "isPinned": true
+      "isPinned": true,
+      "completedAt": "08:54 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-28"
     },
     {
       "id": "sop-1795111804593",
@@ -3192,20 +3201,23 @@
     "2026-11-28": {
       "date": "2026-11-28",
       "totalTasks": 21,
-      "completedTasks": 0,
+      "completedTasks": 3,
       "isFullyCompleted": false,
       "items": [
         {
           "id": "sop-1795110668398",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "เช็ดทำความสะอาดโต๊ะ เก้าอี้",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "เช็ดทำความสะอาดโต๊ะ เก้าอี้ทุกโซนในร้าน",
           "frequency": "daily",
-          "sortOrder": 6
+          "sortOrder": 6,
+          "completedAt": "08:54 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-28"
         },
         {
           "id": "sop-1795110756199",
@@ -3282,27 +3294,33 @@
           "id": "sop-1795111609276",
           "category": "เปิดร้าน (Opening)",
           "task": "จัดเตรียมอุปกรณ์สำหรับจัดเตรียมอุปกรณ์สำหรับการขายให้เรียบร้อย",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:30 น.",
           "startTime": "08:30",
           "sopNotes": "เมล็ดกาแฟ วัตถุดิบต่างๆ",
           "frequency": "daily",
           "sortOrder": 4,
-          "isPinned": true
+          "isPinned": true,
+          "completedAt": "08:54 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-28"
         },
         {
           "id": "sop-1795111691106",
           "category": "บริการ & เตรียมสต็อก (Service & Stock)",
           "task": "เช็กสต๊อก",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:30 น.",
           "startTime": "08:30",
           "sopNotes": "สินค้าหรือวัตถุดิบอันไหนขาดให้แจ้ง",
           "frequency": "daily",
           "sortOrder": 5,
-          "isPinned": true
+          "isPinned": true,
+          "completedAt": "08:54 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-28"
         },
         {
           "id": "sop-1795111804593",
@@ -3442,7 +3460,7 @@
           "frequency": "daily"
         }
       ],
-      "updatedAt": "2026-11-28T01:25:21.457Z"
+      "updatedAt": "2026-11-28T01:54:32.940Z"
     }
   },
   "attendanceRecords": [
