@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:59:30.120Z",
+  "updatedAt": "2026-11-28T06:57:41.637Z",
   "version": "1.0",
   "cafe": "Three Pigs Cafe - พนัสนิคม",
   "sopActiveDate": "2026-11-28",
@@ -411,13 +411,16 @@
       "id": "sop-1795111431958",
       "category": "ดูแลความสะอาด (Sanitation)",
       "task": "กวาดและถู บริเวณโซนที่ลูกค้านั่ง",
-      "completed": false,
+      "completed": true,
       "assignedTo": "ทุกคนในกะ",
       "timeSlot": "08:40 น.",
       "startTime": "08:40",
       "frequency": "daily",
       "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้น และใช้ไม้กวาดพลาสติก สำหรับกวาดบริเวณโซนในร้าน\nยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดเน้นบริเวณทางเดินและใต้โต๊ะกับใต้โซฟา",
-      "sortOrder": 9
+      "sortOrder": 9,
+      "completedAt": "13:57 น.",
+      "completedBy": "Mint",
+      "completedDate": "2026-11-28"
     },
     {
       "id": "sop-1795111486920",
@@ -3237,7 +3240,7 @@
     "2026-11-28": {
       "date": "2026-11-28",
       "totalTasks": 21,
-      "completedTasks": 15,
+      "completedTasks": 16,
       "isFullyCompleted": false,
       "items": [
         {
@@ -3300,13 +3303,16 @@
           "id": "sop-1795111431958",
           "category": "ดูแลความสะอาด (Sanitation)",
           "task": "กวาดและถู บริเวณโซนที่ลูกค้านั่ง",
-          "completed": false,
+          "completed": true,
           "assignedTo": "ทุกคนในกะ",
           "timeSlot": "08:40 น.",
           "startTime": "08:40",
           "sopNotes": "ใช้น้ำยาใช้น้ำยาทำความสะอาดพื้น และใช้ไม้กวาดพลาสติก สำหรับกวาดบริเวณโซนในร้าน\nยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดยกเก้าอี้ขึ้นบนโต๊ะแล้วค่อยกวาดทำความสะอาดเน้นบริเวณทางเดินและใต้โต๊ะกับใต้โซฟา",
           "frequency": "daily",
-          "sortOrder": 9
+          "sortOrder": 9,
+          "completedAt": "13:57 น.",
+          "completedBy": "Mint",
+          "completedDate": "2026-11-28"
         },
         {
           "id": "sop-1795111486920",
@@ -3532,7 +3538,7 @@
           "completedDate": "2026-11-28"
         }
       ],
-      "updatedAt": "2026-11-28T01:59:27.613Z"
+      "updatedAt": "2026-11-28T06:57:37.113Z"
     }
   },
   "attendanceRecords": [
